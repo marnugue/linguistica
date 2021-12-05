@@ -1,7 +1,7 @@
-import os
-from glob import glob
-os.chdir("../data/dataset/deporte")
-for path in glob("*"):
-    num = path.split("-")[0]
-    print(f"{num}")
-    os.rename(path,f"{num}.txt")
+import spacy
+nlp = spacy.load("es_core_news_sm")
+
+text = 'Los gatos y los perros juegan jugaban jugado juntos en el patio de pierde pierden su casa'
+doc = nlp(text)
+for word in doc:
+    print(word.lemma_,word)
