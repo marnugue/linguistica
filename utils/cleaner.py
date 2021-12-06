@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
     print (numero_documentos)
     # print(datos[0])
-    regex = r"[a-zA-Záéíóú]+"
+    regex = r"[a-zA-Záéíóúñ]+"
     text_tokens = re.findall(regex, datos[0][0])
     # print(datos[0][0].translate(str.maketrans('', '', string.punctuation)))
 
