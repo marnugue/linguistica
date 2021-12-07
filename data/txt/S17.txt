@@ -1,0 +1,8 @@
+Estudian la relación entre adenosina y sistema GABAérgico y cómo ésta afecta al desarrollo cerebral
+
+						Un equipo de neurocientíficos de numerosos laboratorios internacionales, entre los que se encuentra el Laboratorio de Estructura Sináptica, adscrito al Idine de la Facultad de Medicina de Albacete y a la UCLM, ha publicado un artículo en Science en el que se describe el mecanismo del sistema GABAérgico, capaz de mantener las conexiones más activas con otras neuronas, al tiempo que eliminan las inactivas. El presente estudio encontró una relación directa entre el neuromodulador adenosina con la señalización mediada por el principal neurotransmisor inhibidor del sistema nervioso central, GABA (ácido gamma aminobutírico).
+
+El grupo de investigadores demostró, específicamente, que una proteína de membrana activada por la adenosina regula la eliminación de sinapsis de las neuronas inhibitorias cuando éstas dejan de estar activas, ejerciendo un papel clave en el proceso de eliminación de ciertas conexiones sinápticas menos activas entre las neuronas del cerebro.
+
+Los autores concluyen que este estudio podría ayudar en la comprensión de trastornos relacionados con el desarrollo del cerebro, y representar un avance terapéutico para combatir trastornos como autismo, esquizofrenia o discapacidad intelectual, además de ofrecer una clara explicación del efecto nocivo que tiene la ingesta de cafeína, un antagonista natural de los receptores A2A, durante el embarazo y periodo de lactancia.
+                    

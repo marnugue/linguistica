@@ -1,0 +1,8 @@
+La tartamudez no se debe a un deterioro de las habilidades motoras, aparece con la iniciación del habla
+
+						Las técnicas de neuroimagen y modelización neurocomputacional están permitiendo comprender mucho mejor el funcionamiento del cerebro durante el habla y cómo surge la tartamudez. En este sentido, en el marco de la 181ª Reunión de la Sociedad Acústica de América se ha presentado una investigación, realizada por investigadores de la Universidad de Boston (EE.UU.) y publicada en Neurobiology Languaje, en el que se confirma que, dentro del cerebro, un circuito inicia el habla deseada en los ganglios basales, mientras que otro circuito coordina los músculos necesarios para generar el habla. La tartamudez surge de la iniciación del habla, por lo que sólo el primero de los dos circuitos está alterado.
+
+El estudio compara el habla con un aparato reproductor de CD con dos circuitos: uno que elige un CD y otro que lo reproduce. En el cerebro, esto corresponde a un circuito que inicia el habla deseada en los ganglios basales, mientras que otro circuito coordina los músculos necesarios para generar el habla. La tartamudez proviene de la iniciación del habla, por lo que sólo el primero de los dos circuitos está alterado, o lo que es lo mismo, en la tartamudez, los CD en sí están bien, pero el mecanismo para elegirlos está alterado.
+
+El equipo de investigadores creó modelos computacionales de cómo funciona el circuito de iniciación del habla en un individuo no tartamudo. Como la enfermedad de Parkinson también afecta al circuito de iniciación, pueden comparar estos modelos directamente con los datos tomados de los ganglios basales durante la cirugía de estimulación cerebral profunda en pacientes con la enfermedad.
+                    

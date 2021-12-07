@@ -1,0 +1,5 @@
+Los virus oncolíticos pueden ser útiles en el tratamiento del glioblastoma
+Un grupo de investigación del Centro de Biología Molecular Severo Ochoa (CBMSO) ha demostrado, en modelos murinos, la utilidad de los virus oncolíticos, capaces de infectar y destruir células madre malignas de tumores cerebrales humanos.
+En concreto, en su trabajo, publicado en Cell Reports, los investigadores han evidenciado el potencial terapéutico que tiene un parvovirus de ratón para infectar y destruir células madre de glioblastoma humano o de otros tipos de cáncer que cuenten con la señalización de p53 desregulada.
+Los investigadores cultivaron in vitro neuroesferas de células madre de glioblastoma para poder demostrar que el parvovirus MVM (Minute Virus of Mice) dirige una acción citotóxica exclusiva contra células que tienen alteradas las respuestas innatas y el regulador central p53 por mutación o fosforilación aberrante. El trabajo se realizó con células madre obtenidas de pacientes de glioblastoma y se demostró en modelos de ratón implantados en el cerebro con estas células madre malignas humanas.
+                    

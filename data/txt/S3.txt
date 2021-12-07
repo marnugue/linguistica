@@ -1,0 +1,10 @@
+La capacidad de las proteínas HAT de seleccionar el transporte de unos u otros aminoácidos podría relacionarse con la etiología del Alzheimer
+
+						Investigadores del Centro Nacional de Investigaciones Oncológicas (CNIO) y del Instituto de Investigación Biomédica (IRB Barcelona) han desvelado el funcionamiento de las proteínas HAT, que sirven de compuertas para la entrada y salida de aminoácidos en las células, y que están implicadas en ciertos casos de cáncer o Alzheimer.
+
+El estudio, publicado en Proceedings of the National Academy of Sciences (PNAS), se ha centrado en la capacidad de estas proteínas de especializarse en el transporte selectivo de aminoácidos LAT2/CD98hc, especialización responsable de que cada uno de ellos esté involucrado en funciones concretas como, por ejemplo, el crecimiento celular o el funcionamiento de las neuronas, y por ende en enfermedades relacionadas como el cáncer o neurodegenerativas como el Alzheimer.
+
+En base a criomicroscopía electrónica los investigadores han sido capaces de visualizar con detalle atómico la estructura de uno de los miembros de esta familia de proteínas y, combinado con modelado computacional y el diseño de mutantes de la proteína, entender así su funcionamiento.
+
+Los resultados del estudio muestran que solo unos pocos residuos de esta familia de proteínas, situados en regiones muy concretas, seleccionan los aminoácidos específicos a los que se van a unir, y son por tanto los responsables de que desarrollen una función u otra. Con esta información, el gran reto de los investigadores ahora es encontrar nuevas terapias y herramientas diagnósticas para patologías en las que están implicadas los transportadores de la familia HAT, con especial interés en aquellas enfermedades que representan graves problemas de salud pública como el cáncer o las enfermedades neurodegenerativas como el Alzheimer.
+                    

@@ -1,0 +1,71 @@
+La pandemia de covid ha hecho que la investigación científica sea una prioridad de los gobiernos de los países desarrollados. Y se han conseguido grandes logros para frenar la pandemia.
+
+El hito más importante han sido las vacunas y, de ellas, por su novedad y eficacia, las que utilizan la técnica del ARN mensajero.
+
+No es tan conocido que esta técnica no es tan novedosa. Se venía investigando desde hace años para tratar otras enfermedades, y en concreto la del cáncer.
+
+¿Sería posible aprovechar este impulso en la investigación para encontrar vacunas contra el cáncer?
+
+“De hecho, ya tenemos vacunas contra algún tipo de cáncer”, recuerda la doctora Margarita del Val, viróloga del Centro Superior de Investigaciones Científicas (CSIC).
+
+Vacunas contra el cáncer de cuello de útero, causado por el papiloma humano.
+Vacunas contra un cáncer de hígado causado por el virus de la hepatitis B.
+Puede haber más. Pero para eso es importante saber el origen de la enfermedad. Eso nos ayuda a actuar muy al principio y es más fácil curar.
+
+Hace 50 años no sabíamos casi nada del origen del cáncer. Toda la solución era intentar matar las células cancerígenas que se multiplicaban.
+
+Hoy se ha avanzado en muchos frentes. Se investiga las terapias personalizadas una vez el cáncer se ha desarrollado. Pero sería interesante llegar antes de que se desarrolle.
+
+“Actualmente se sabe que uno de cada seis tumores que conocemos está producido por un agente infeccioso”, explica la viróloga.
+
+Por ejemplo, el virus de la mononucleosis infecciosa, que causa tumores de nariz y garganta. Y no tenemos vacunas contra todos ellos. Si las consiguiéramos serían un avance.
+
+Y pueden ser más. “Creo que hay más cánceres causados por un origen común. No se ha buscado suficiente los agentes infecciosos”, añade la doctora Del Val.
+
+El desarrollo de las células tumorales tiene un importante punto de relación con las enfermedades causadas virus como el de la covid: .
+
+Ese punto de conexión es nuestro sistema inmunológico. Nuestras defensas diferencian las células infectadas por el virus y las que no.
+
+Por eso una vía importante de investigación es la inmunoterapia: que sean nuestras defensas las que luchen contra las células cancerígenas.
+
+Para ello es necesario que aprendan a diferenciar las células malignas de las que no y les ayudemos a atacarlas.
+
+“Aprende cómo se defiende tu enemigo y sabrás cómo hacerle daño”, dice la viróloga.
+
+El objetivo es descubrir cómo se las arreglan las células malignas para esconderse del sistema inmune.
+
+Es un campo en fase incipiente. “Aún hay que investigar más antígenos (proteínas) en la membrana de las células tumorales que sean específicos de cáncer”, explica el doctor Mariano Esteban, director de investigación en el CSIC.
+
+Allí es donde entran en juego las vacunas. Con vacunas podemos enseñar a nuestras defensas.
+
+Podríamos inyectar esas proteínas de las células cancerígenas para que las células de nuestro sistema inmune (los linfocitos T) que se comen células infectadas las reconozcan mejor.
+
+Así potenciaremos que ataquen más a las células cancerígenas.
+
+Las vacunas de ARN mensajero suponen una técnica para crear vacunas rápidas y muy versátiles. “Han revolucionado la forma de presentación de los antígenos al sistema inmune”, dice el doctor Esteban.
+
+La aplicación de esta tecnología en el cáncer “acelerará la búsqueda de inmunoterapias y de vacunas eficaces contra tumores de distinto origen”, subraya.
+
+Las empresas que trabajan con la técnica de ARN mensajero, como Moderna o Pfizer, están ensayando ya con los genes del melanoma, que podría ser uno de los primeros en obtener resultados.
+
+Sin embargo, el ARN-m no es la única técnica prometedora.
+
+“En ciencia también hay modas y todo el mundo va a la misma innovación. Toda la tecnología puede ser útil”, recalca el doctor Esteban.
+
+Los otros sistemas para crear vacunas pueden ser útiles. Tampoco todas las vacunas de ARN contra la covid han funcionado igual de bien.
+
+Las vacunas de ARN provocan molestias muy importantes los primeros días. "Eso lo que quiere decir es que se está usando las dosis máxima tolerada", aclara la doctora Del Val.
+
+Como para el cáncer se pueden necesitar dosis mucho más altas, quizá no sea factible con este tipo de vacunas. Por eso no hay que menospreciar otro tipo de tratamientos, que también se están investigando..
+
+Otra interesante vía de investigación es inyectar virus que puedan infectar a las células cancerígenas y que dejen en paz a las sanas.
+
+“Ya hay virus que están modificados para atacar exclusivamente a células malignas, son los virus oncolíticos”, explica el doctor Esteban.
+
+Se les han hecho cambios en su genética para "educarlos" a atacar las células cancerosas.
+
+“Los virus nos han servido para entender mejor cómo se producen las enfermedades y cómo actúa el sistema inmune”, añade el investigador del CSIC.
+
+Un conocimiento que se está ampliando con la pandemia. El tiempo dirá qué frutos podemos obtener de ese conocimiento.
+
+“Tampoco se hizo mucho caso cuando apareció la técnica del ARN mensajero”, apostilla.
