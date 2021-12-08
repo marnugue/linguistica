@@ -1,3 +1,4 @@
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk import FreqDist
@@ -8,6 +9,12 @@ import string
 import os
 import re
 # as md S
+
+# Installer nltk package
+#
+nltk.download('stopwords')
+nltk.download('punkt')
+
 def clean(file):
     with open(file,"r") as fd:
         matches = re.finditer(regex,fd.read(),re.MULTILINE)
@@ -48,9 +55,11 @@ def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=Fa
     # Cargar el contenido de los .txt en un array y etiquetarlos: Deportes = 1, Salud = 2 y Politica = 3
     for c in carpetas:
 
+        print("Extrayendo carpeta " + c + "...")
         files = os.listdir(path_datos + "/" + c)
         for f in files:
-            
+            if numero_documentos % 60 == 0:
+                print("Extrayendo documento " + str(numero_documentos) + "...")
 
             # Abrir los .txt, eliminar saltos de linea y agruparlos todos en un str
             with open(path_datos + "/" + c + "/" + f, encoding="utf-8") as documento_txt:
@@ -69,8 +78,10 @@ def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=Fa
 
     regex = r"[a-zA-Záéíóúñ]+"
 
-    for instance in datos:
-    
+    for index, instance in enumerate(datos):
+
+        if index % 10 == 0:
+            print("Procesando instancia " + str(index) + "...")
         text_tokens = re.findall(regex, instance[0])
         tokens_without_sw = [word for word in text_tokens if not word in stopwords.words("spanish")] if stopword else text_tokens
         text = " ".join(tokens_without_sw)

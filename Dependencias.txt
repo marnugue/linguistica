@@ -1,0 +1,15 @@
+- Spacy lematizador español:
+	python -m spacy download es
+
+- Librerias necesarias:
+	spacy
+	pandas
+	scikit
+	glob
+	string
+	os
+	re
+	random
+	numpy
+	bs4
+	validators
