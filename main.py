@@ -17,4 +17,4 @@ if __name__ == '__main__':
 
     # Inicializar y entrenar el modelo
     model = Model(data)
-    model.train(train_size=0.7)
+    model.train()

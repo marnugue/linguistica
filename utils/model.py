@@ -1,9 +1,4 @@
 # Import de las librerias necesarias
-import os
-import re
-import nltk
-from nltk import SnowballStemmer
-from nltk.corpus import stopwords
 import random
 import numpy as np
 import pandas as pd
@@ -11,16 +6,56 @@ import pandas as pd
 # Descargar recursos necesarios
 from sklearn import naive_bayes
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics import confusion_matrix, f1_score, classification_report
+from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.metrics.pairwise import cosine_similarity
-
+from sklearn.linear_model import LogisticRegression
 
 class Model():
+
     def __init__(self,data):
         self.data = data
         self.length = np.shape(data)[0]
-    def cos_similarity(self, x_train, x_test, y_train):
+
+    # Método para preparar subconjuntos de entrenamiento y test
+    def prep_dataset(self):
+        datos_deporte = self.data[0]
+        datos_salud =  self.data[1]
+        datos_politica = self.data[2]
+        random.shuffle(datos_deporte)
+        random.shuffle(datos_salud)
+        random.shuffle(datos_politica)
+
+        Train_list = []
+        Test_list = []
+
+        for i in range(60):
+            Train_list.append(datos_deporte[i])
+            Train_list.append(datos_salud[i])
+            Train_list.append(datos_politica[i])
+        for i in range(60,90):
+            Test_list.append(datos_deporte[i])
+            Test_list.append(datos_salud[i])
+            Test_list.append(datos_politica[i])
+
+        Train = pd.DataFrame(Train_list, columns=['Texto', 'Etiqueta'])
+
+        Test = pd.DataFrame(Test_list, columns=['Texto', 'Etiqueta'])
+
+        x_train = Train['Texto']
+        y_train = Train['Etiqueta'].tolist()
+        x_test = Test['Texto']
+        y_test = Test['Etiqueta'].tolist()
+        #print(np.shape(x_train), np.shape(x_test))
+        #print (x_train)
+
+        return x_train, y_train, x_test, y_test
+
+
+    # Método para obtener predicciones clasificador similitud del coseno
+    def cos_similarity_classification(self, x_train, x_test, y_train):
+        print("Entrenando modelo cos similarity...\n")
         y_test = []
+
         for test_instance in x_test:
             candidate_similarity = 0
             candidate_label = 0
@@ -30,37 +65,49 @@ class Model():
                     candidate_label = label
                     candidate_similarity = similarity
             y_test.append(candidate_label)
+
         return y_test
-    def train(self,train_size):
-        print("Entrenando el modelo...")
-        random.shuffle(self.data)
-        Train = pd.DataFrame(self.data[:int(self.length * train_size)], columns = ['Texto', 'Etiqueta'])
 
-        X_Train = Train['Texto']
-        Y_Train = Train['Etiqueta'].tolist()
-        
-        Test = pd.DataFrame(self.data[int(self.length * train_size):], columns = ['Texto', 'Etiqueta'])
+    # Método para obtener predicciones clasificador Bayes. Devuelve predicción de etiquetas y probabilidades
+    def bayes_classification(self, x_train, x_test, y_train):
+        print("Entrenando modelo Bayes...\n")
+        classifier = naive_bayes.BernoulliNB()
+        classifier.fit(x_train, y_train)
+        y_pred_prob = classifier.predict_proba(x_test)
+        y_pred = classifier.predict(x_test)
+        return (y_pred, y_pred_prob)
 
-        X_Test = Test['Texto']
-        Y_Test = Test['Etiqueta'].tolist()
+    def logistic_regresion_clasification(self, x_train, x_test, y_train):
+        print("Entrenando modelo Regresion Logistica...\n")
+        classifier = LogisticRegression()
+        classifier.fit(x_train, y_train)
+        y_pred_prob = classifier.predict_proba(x_test)
+        y_pred = classifier.predict(x_test)
+        return (y_pred, y_pred_prob)
+
+    def train(self):
+        print("Entrenando los modelos...\n")
+        x_train, y_train, x_test, y_test = self.prep_dataset()
 
         tfidf_vectorizer = TfidfVectorizer()
 
-        Train_Vectorized = tfidf_vectorizer.fit_transform(X_Train)
-        Test_Vectorized = tfidf_vectorizer.transform(X_Test)
+        Train_Vectorized = tfidf_vectorizer.fit_transform(x_train)
+        Test_Vectorized = tfidf_vectorizer.transform(x_test)
 
-        '''print(np.shape(Train_Vectorized))
-        print(np.shape(Test_Vectorized))
-
-        classifier = naive_bayes.BernoulliNB()
-        classifier.fit(Train_Vectorized, Y_Train)
-
-        y_pred = classifier.predict(Test_Vectorized)
-        y_pred_prob = classifier.predict_proba(Test_Vectorized)
-        print(y_pred_prob)'''
-
-        y_pred = self.cos_similarity(Train_Vectorized, Test_Vectorized, Y_Train)
-
-        c_matrix = confusion_matrix(y_true = Y_Test, y_pred = y_pred)
+        print("\n________ Modelo Similitud Coseno ________")
+        y_pred = self.cos_similarity_classification(Train_Vectorized, Test_Vectorized, y_train)
+        c_matrix = confusion_matrix(y_true = y_test, y_pred = y_pred)
         print(c_matrix)
-        print(classification_report(y_true = Y_Test, y_pred = y_pred, target_names = ['Deporte', 'Salud', 'Política']))
+        print(classification_report(y_true = y_test, y_pred = y_pred, target_names = ['Deporte', 'Salud', 'Política']))
+
+        print("\n________ Modelo Bayes ________")
+        y_pred = self.bayes_classification(Train_Vectorized, Test_Vectorized, y_train)[0]
+        c_matrix = confusion_matrix(y_true=y_test, y_pred=y_pred)
+        print(c_matrix)
+        print(classification_report(y_true=y_test, y_pred=y_pred, target_names=['Deporte', 'Salud', 'Política']))
+
+        print("\n________ Modelo Regresión Logística ________")
+        y_pred = self.logistic_regresion_clasification(Train_Vectorized, Test_Vectorized, y_train)[0]
+        c_matrix = confusion_matrix(y_true=y_test, y_pred=y_pred)
+        print(c_matrix)
+        print(classification_report(y_true=y_test, y_pred=y_pred, target_names=['Deporte', 'Salud', 'Política']))

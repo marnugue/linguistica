@@ -35,7 +35,7 @@ i = 0
 regex = r"((?!(\r\n|\n|\r|\t))[\s\S])+"
 nlp = spacy.load("es_core_news_sm") # hay dos modelos es_dep_news_trf (accuracy, utiliza redes neuronales) y es_core_news_sm (eficiencia)
 stemmer = SnowballStemmer('spanish')
-datos = []
+datos = [[], [], []]
 numero_documentos = 0
 
 def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=False):
@@ -69,26 +69,26 @@ def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=Fa
                 texto = texto + " " + part
 
             if c == "Deporte":
-                datos.append([texto, 1])
+                datos[0].append([texto, 1])
             elif c == "Salud":
-                datos.append([texto, 2])
+                datos[1].append([texto, 2])
             elif c == "Politica":
-                datos.append([texto, 3])
+                datos[2].append([texto, 3])
             numero_documentos += 1
 
     regex = r"[a-zA-Záéíóúñ]+"
+    for i in range(3):
+        for index, instance in enumerate(datos[i]):
 
-    for index, instance in enumerate(datos):
-
-        if index % 10 == 0:
-            print("Procesando instancia " + str(index) + "...")
-        text_tokens = re.findall(regex, instance[0])
-        tokens_without_sw = [word for word in text_tokens if not word in stopwords.words("spanish")] if stopword else text_tokens
-        text = " ".join(tokens_without_sw)
-        doc = nlp(text)
-        lematizied_text = [word.lemma_ for word in doc] if lematizer else tokens_without_sw
-        steamed_words = [stemmer.stem(word) for word in lematizied_text] if steaming else lematizied_text
-        instance[0] = " ".join(steamed_words)
+            if index % 10 == 0:
+                print("Procesando instancia " + str(index) + "...")
+            text_tokens = re.findall(regex, instance[0])
+            tokens_without_sw = [word for word in text_tokens if not word in stopwords.words("spanish")] if stopword else text_tokens
+            text = " ".join(tokens_without_sw)
+            doc = nlp(text)
+            lematizied_text = [word.lemma_ for word in doc] if lematizer else tokens_without_sw
+            steamed_words = [stemmer.stem(word) for word in lematizied_text] if steaming else lematizied_text
+            instance[0] = " ".join(steamed_words)
         
     return datos
 # Installer nltk package
