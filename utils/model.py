@@ -5,7 +5,7 @@ import pandas as pd
 
 # Descargar recursos necesarios
 from sklearn import naive_bayes
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.linear_model import LogisticRegression
@@ -91,25 +91,28 @@ class Model():
         print("Entrenando los modelos...\n")
         x_train, y_train, x_test, y_test = self.prep_dataset()
 
-        tfidf_vectorizer = TfidfVectorizer()
+        bow_vectorizer = CountVectorizer()
+        Train_Vectorized_bow = bow_vectorizer.fit_transform(x_train)
+        Test_Vectorized_bow = bow_vectorizer.transform(x_test)
 
-        Train_Vectorized = tfidf_vectorizer.fit_transform(x_train)
-        Test_Vectorized = tfidf_vectorizer.transform(x_test)
+        tfidf_vectorizer = TfidfVectorizer()
+        Train_Vectorized_tfidf = tfidf_vectorizer.fit_transform(x_train)
+        Test_Vectorized_tfidf = tfidf_vectorizer.transform(x_test)
 
         print("\n________ Modelo Similitud Coseno ________")
-        y_pred,similarity = self.cos_similarity_classification(Train_Vectorized, Test_Vectorized, y_train)
+        y_pred,similarity = self.cos_similarity_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
         c_matrix = confusion_matrix(y_true = y_test, y_pred = y_pred)
         print(c_matrix)
         print(classification_report(y_true = y_test, y_pred = y_pred, target_names = ['Deporte', 'Salud', 'Política']))
 
         print("\n________ Modelo Bayes ________")
-        y_pred,y_probs = self.bayes_classification(Train_Vectorized, Test_Vectorized, y_train)
+        y_pred,y_probs = self.bayes_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
         c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1)
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1, target_names=['Deporte', 'Salud', 'Política']))
 
         print("\n________ Modelo Regresión Logística ________")
-        y_pred,y_probs = self.logistic_regresion_clasification(Train_Vectorized, Test_Vectorized, y_train)
+        y_pred,y_probs = self.logistic_regresion_clasification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
         c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1)
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1, target_names=['Deporte', 'Salud', 'Política']))

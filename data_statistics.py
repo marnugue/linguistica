@@ -95,10 +95,7 @@ def cleanTexts(path, lematizer=False, stopword=True, steaming=True, extractor=Fa
         for index, instance in enumerate(datos[i]):
 
             # Contar palabras raw
-            n_palbras_documento = 0
-            for palabra in instance[0]:
-                n_palbras_documento += 1
-            numero_palabras_raw.append(n_palbras_documento)
+            numero_palabras_raw.append(len(instance[0].split()))
 
             # Contar palabras regex
             if index % 10 == 0:
