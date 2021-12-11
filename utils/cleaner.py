@@ -8,6 +8,7 @@ import spacy
 import string
 import os
 import re
+import sys
 # as md S
 
 # Installer nltk package
@@ -55,11 +56,15 @@ def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=Fa
     # Cargar el contenido de los .txt en un array y etiquetarlos: Deportes = 1, Salud = 2 y Politica = 3
     for c in carpetas:
 
-        print("Extrayendo carpeta " + c + "...")
+        print("\rExtrayendo carpeta " + c + "...")
         files = os.listdir(path_datos + "/" + c)
         for f in files:
-            if numero_documentos % 60 == 0:
-                print("Extrayendo documento " + str(numero_documentos) + "...")
+            # if numero_documentos % 60 == 0:
+            print('\rExtrayendo documento  {doc} ...'
+                .format(doc=numero_documentos),
+                end="")
+            sys.stdout.flush()
+    
 
             # Abrir los .txt, eliminar saltos de linea y agruparlos todos en un str
             with open(path_datos + "/" + c + "/" + f, encoding="utf-8") as documento_txt:
@@ -77,11 +82,16 @@ def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=Fa
             numero_documentos += 1
 
     regex = r"[a-zA-Záéíóúñ]+"
+    print("")
     for i in range(3):
         for index, instance in enumerate(datos[i]):
 
-            if index % 10 == 0:
-                print("Procesando instancia " + str(index) + "...")
+            
+            print('\rProcesado instancia {indice} ...'
+                .format(indice=index),
+                end="")
+            sys.stdout.flush()
+            # print("Procesando instancia " + str(index) + "...")
             text_tokens = re.findall(regex, instance[0])
             tokens_without_sw = [word for word in text_tokens if not word in stopwords.words("spanish")] if stopword else text_tokens
             text = " ".join(tokens_without_sw)
@@ -89,6 +99,7 @@ def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=Fa
             lematizied_text = [word.lemma_ for word in doc] if lematizer else tokens_without_sw
             steamed_words = [stemmer.stem(word) for word in lematizied_text] if steaming else lematizied_text
             instance[0] = " ".join(steamed_words)
+        print("")
         
     return datos
 # Installer nltk package
