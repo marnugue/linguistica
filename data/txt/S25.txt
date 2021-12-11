@@ -1,8 +1,5 @@
 Crean vesículas extracelulares capaces de transportar al cerebro un gen modificado de la proteína AMPKα1 para revertir la obesidad
-
-						El grupo del CiMUS de la USC NeurObesity, en colaboración con investigadores de la Universidad de Angers (Francia), ha conseguido cargar vesículas extracelulares con un gen modificado que inhibe la acción de la proteína AMPKα1 en un grupo muy reducido de neuronas del hipocampo, una región cerebral de difícil acceso.
-
+El grupo del CiMUS de la USC NeurObesity, en colaboración con investigadores de la Universidad de Angers (Francia), ha conseguido cargar vesículas extracelulares con un gen modificado que inhibe la acción de la proteína AMPKα1 en un grupo muy reducido de neuronas del hipocampo, una región cerebral de difícil acceso.
 Con esta novedosa estrategia se ha logrado revertir la obesidad en ratones muy obesos, a pesar de seguir ingiriendo una dieta con elevado contenido en grasa. El trabajo, publicado en Nature Metabolism, va más allá del campo de la obesidad y puede extenderse a otras patologías relacionadas con el cerebro.
-
 Los investigadores recuerdan que uno de los mayores problemas que implica buscar un tratamiento contra la obesidad es que muchos de los potenciales mecanismos que regulan la masa corporal están localizados en el cerebro, especialmente en el hipotálamo, lo que supone un problema, puesto que hay que atravesar el cráneo y la barrera hematoencefálica. Por ello, la investigación se ha centrado en el desarrollo de una nueva estrategia para tratar la obesidad: el uso, a modo de vesículas extracelulares, de nanopartículas naturales presentes en el organismo, cuya ventaja reside precisamente en su tamaño, puesto que atraviesan la barrera hematoencefálica, actuando de forma eficiente en el proceso de inhibición de la AMPKα1.
                     

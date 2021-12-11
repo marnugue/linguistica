@@ -1,8 +1,5 @@
 La terapia génica consigue aumentar los beneficios de la levodopa en pacientes con Parkinson
-
-						En fases tardías del Parkinson la levodopa pierde efectividad debido a la disminución de neuronas liberadoras de dopamina. Pero un nuevo estudio preclínico de Northwestern Medicine (EE.UU.), con la colaboración de Investigadores de la Universidad de Sevilla (US) y del Instituto de Biomedicina de Sevilla (IBIS), ha mostrado que una terapia genética dirigida a la substantia nigra revierte esta situación.
-
+En fases tardías del Parkinson la levodopa pierde efectividad debido a la disminución de neuronas liberadoras de dopamina. Pero un nuevo estudio preclínico de Northwestern Medicine (EE.UU.), con la colaboración de Investigadores de la Universidad de Sevilla (US) y del Instituto de Biomedicina de Sevilla (IBIS), ha mostrado que una terapia genética dirigida a la substantia nigra revierte esta situación.
 Según el estudio, publicado en Nature, la terapia génica permite a la levodopa recrear el entorno encontrado en el cerebro sano, eliminando la actividad cerebral aberrante. Este estudio se ha realizado en ratones modificados genéticamente, careciendo del gen Ndufs2, que altera el complejo mitocondrial I (CMI) y genera en los ratones un parkinsonismo progresivo.
-
 Los investigadores aseguran que el objetivo final es comprender mejor la fisiopatología de la enfermedad de Parkinson y contribuir con este conocimiento al desarrollo de terapias novedosas que mejorarán la calidad de vida y la expectativa de los pacientes. En este sentido, subrayan que los hallazgos en ratones podrían ayudar a identificar a los humanos en las primeras etapas de la enfermedad de Parkinson, a desarrollar terapias para retardar la progresión de la enfermedad y a tratar la enfermedad en sus últimas etapas.
                     
