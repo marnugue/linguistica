@@ -37,6 +37,8 @@ class Model():
             Test_list.append(datos_salud[i])
             Test_list.append(datos_politica[i])
 
+        print(Train_list)
+
         Train = pd.DataFrame(Train_list, columns=['Texto', 'Etiqueta'])
 
         Test = pd.DataFrame(Test_list, columns=['Texto', 'Etiqueta'])
