@@ -50,9 +50,9 @@ class Model():
 
         return x_train, y_train, x_test, y_test
 
-    def orderProbs(probs):
+    def orderProbs(self,probs):
         res = []
-        for prob in probs:
+        for prob in probs.tolist():
             res.append([prob.index(i) for i in sorted(prob, reverse=True)][:3]) 
         return res
 
@@ -81,7 +81,7 @@ class Model():
         classifier = naive_bayes.BernoulliNB()
         classifier.fit(x_train, y_train)
         y_pred_prob = classifier.predict_proba(x_test)
-        # y_pred = self.orderProbs(y_pred_prob)
+        prueba = self.orderProbs(y_pred_prob)
         y_pred = classifier.predict(x_test)
         return (y_pred, y_pred_prob)
 
@@ -104,6 +104,7 @@ class Model():
         tfidf_vectorizer = TfidfVectorizer()
         Train_Vectorized_tfidf = tfidf_vectorizer.fit_transform(x_train)
         Test_Vectorized_tfidf = tfidf_vectorizer.transform(x_test)
+        df = pd.DataFrame({},columns=["method","class1","class2","class3","realClass"])
 
         print("\n________ Modelo Similitud Coseno ________")
         y_pred,similarity = self.cos_similarity_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
