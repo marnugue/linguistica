@@ -1,43 +1,10 @@
-Según las estadísticas, la neumonía se encuentra en el número 10 del ránking de causas de muerte más frecuentes en España y una de cada cinco personas que la padecen tienen que ingresar en el hospital para recibir tratamiento.
+La capacidad de las proteínas HAT de seleccionar el transporte de unos u otros aminoácidos podría relacionarse con la etiología del Alzheimer
 
-Detectarla a tiempo es clave para evitar complicaciones. El problema es que, a veces, los síntomas son inespecíficos y se confunden con los típicos de un resfriado o de la clásica gripe. Cansancio, fiebre, escalofríos, dolor en el pecho al respirar o al toser, tos con flema… Son algunos signos que pueden alertarte de la aparición de una neumonía.
-La neumonía aparece cuando el tejido de los pulmones se inflama por culpa de una infección. Para entender cómo actúa la enfermedad, lo primero que debes saber es que el pulmón cuenta con dos grandes partes: los bronquios y los alveolos.
+						Investigadores del Centro Nacional de Investigaciones Oncológicas (CNIO) y del Instituto de Investigación Biomédica (IRB Barcelona) han desvelado el funcionamiento de las proteínas HAT, que sirven de compuertas para la entrada y salida de aminoácidos en las células, y que están implicadas en ciertos casos de cáncer o Alzheimer.
 
-Los alveolos tienen forma de pequeños sacos y se llenan de aire al respirar. En ellos se realiza el intercambio de oxígeno (pasa a la sangre) y dióxido de carbono (se expulsa al exterior).
-Si un agente infeccioso esquiva las barreras que protegen tu sistema respiratorio (entre las que se encuentran el respirar por nariz o la tos) y alcanza las células de los pulmones, tus defensas reaccionan para hacerle frente. Entonces los alveolos se inflaman y se altera el normal funcionamiento pulmonar.
-Debido a la inflamación, el oxígeno no pasa correctamente a la sangre, aparecen síntomas como la fatiga, y la respiración se hace difícil e incluso dolorosa.
-Existen más de 100 tipos de microorganismos que pueden acabar causando esta enfermedad.
+El estudio, publicado en Proceedings of the National Academy of Sciences (PNAS), se ha centrado en la capacidad de estas proteínas de especializarse en el transporte selectivo de aminoácidos LAT2/CD98hc, especialización responsable de que cada uno de ellos esté involucrado en funciones concretas como, por ejemplo, el crecimiento celular o el funcionamiento de las neuronas, y por ende en enfermedades relacionadas como el cáncer o neurodegenerativas como el Alzheimer.
 
-En los adultos, la mayoría de neumonías son provocadas por una bacteria denominada Streptococcus pneumoniae, popularmente conocida como Neumococo.
-También pueden desencadenarla algunos virus, como el de la gripe o el de la varicela, e incluso hongos, especialmente en el caso de las personas que tienen un sistema inmunitario debilitado (diabéticos, trasplantados, etc.).
-Muchas veces todo se debe a un cúmulo de factores. Así, una neumonía bacteriana puede aparecer por culpa de la propia bacteria o bien empezar por un virus que, después, se sobreinfecta porque entra en juego una bacteria.
-Algunos síntomas nos ofrecen pistas sobre el tipo de neumonía:
+En base a criomicroscopía electrónica los investigadores han sido capaces de visualizar con detalle atómico la estructura de uno de los miembros de esta familia de proteínas y, combinado con modelado computacional y el diseño de mutantes de la proteína, entender así su funcionamiento.
 
-Bacteriana. Normalmente empieza de forma brusca, con fiebre alta, tos y expectoración purulenta.
-Vírica. El síntoma más claro es la tos seca y suele darse febrícula. En este caso, para evitar el contagio, es muy importante lavarse las manos con frecuencia.
-Ante un resfriado muy fuerte o una gripe que no se acaba de curar es muy importante que acudas al médico para realizar un correcto diagnóstico y descartar que sea algo más grave.
-En vista de los síntomas, después de explorarte y auscultarte, probablemente indicará que te hagas una radiografía de tórax para confirmar el diagnóstico y, si es necesario, un análisis de sangre.
-La radiografía permite al médico confirmar si se trata de una neumonía y, también puede orientar sobre el origen de la neumonía si es vírica o bacteriana. De todos modos, la confirmación solamente se realizar por cultivos de esputo o de muestras pulmonares enviadas a Microbiología.
-
-En el caso de que el origen sea una bacteria, probablemente te recetará antibióticos para acabar con ella. En este caso el tratamiento antibiótico dura de 10 a 14 días.
-
-Lo más habitual es que el malestar y la fiebre empiecen a mejorar entre 3 y 5 días después de iniciar el tratamiento. En la mayoría de casos, a los 7 días ya se puede recuperar el ritmo de vida normal, aunque es posible que la fatiga y una tos leve persistente se prolonguen durante bastante tiempo (un mes o incluso más).
-Aunque muchas veces responde bien al tratamiento, en algnas ocasiones la infección puede complicarse.
-
-Derrame pleural. Se produce cuando se acumula líquido entre la membrana fina que rodea los pulmones (la pleura) y la pared interna de la caja torácica.
-Absceso. El pus que se encuentra en los alveolos se enquista. En general, hay que prolongar el tratamiento con antibiótico.
-Infección generalizada. En los casos más severos, la infección pasa a la sangre y puede dar lugar a complicaciones realmente severas, como una meningitis.
-Los mayores de 65 años, los niños menores de 5 años, las personas con un sistema inmunitario débil y los fumadores son grupos con más tendencia a sufrir neumonía y, una vez curada, el riesgo de recaer es mayor.
-Según un estudio coordinado por el CIBERSP (Centro de Investigación Biomédica en Red de Epidemiología y Salud Pública), el 11,39% de los pacientes de 65 años o más que han sido hospitalizados por neumonía tienen que ser ingresados de nuevo durante los 30 días posteriores al alta. Normalmente el reingreso se debe a un empeoramiento de alguna enfermedad previa o a la aparición de una nueva patología.
-Los factores que pueden propiciar la recaída son: vivir con una persona menor de 15 años, haber realizado más de tres visitas al hospital en los tres meses previos al ingreso, padecer insuficiencia respiratoria crónica, insuficiencia cardiaca o enfermedad hepática crónica.
-
-La fisioterapia respiratoria resulta muy útil para prevenir y tratar problemas del aparato respiratorio. Incluye tanto técnicas que aplican estos especialistas como ejercicios que podemos hacer en casa.
-
-En la neumonía, cuando el alveolo se llena de pus y los pulmones se saturan de secreciones, la fisioterapia respiratoria puede contribuir a eliminarlas, así como a mantener las vías aéreas abiertas y mejorar el intercambio de oxígeno y dióxido de carbono.
-Hacer series de respiraciones profundas varias veces al día te puede ayudar a movilizar los pulmones para recuperar su capacidad. También te irá bien practicar la tos controlada.
-Te conviene ser constante hasta que tu cuerpo elimine por completo todos los restos de la infección. Y, una vez superada, mantener la rutina de respiraciones te ayudará a mejorar tu capacidad pulmonar y a evitar recaídas.
-Practica un ejercicio que ayudará a tus pulmones.
-
-Siéntate erguido y respira lentamente usando la respiración diafragmática (inspira hondo a través de la nariz). Aguanta la respiración de 3 a 5 segundos y espira suavemente por la boca.
-Haz una segunda inspiración profunda, contenla y tose con fuerza dos veces de forma corta y forzada, desde lo más profundo del pecho. Sobre todo, recuerda que no debes hacerlo desde la garganta.
-Después de realizar varias veces el ejercicio, descansa de 15 a 30 minutos. Los expertos recomiendan repetirlo 3 o 4 veces al día, media hora antes de las comidas y antes de acostarse.
+Los resultados del estudio muestran que solo unos pocos residuos de esta familia de proteínas, situados en regiones muy concretas, seleccionan los aminoácidos específicos a los que se van a unir, y son por tanto los responsables de que desarrollen una función u otra. Con esta información, el gran reto de los investigadores ahora es encontrar nuevas terapias y herramientas diagnósticas para patologías en las que están implicadas los transportadores de la familia HAT, con especial interés en aquellas enfermedades que representan graves problemas de salud pública como el cáncer o las enfermedades neurodegenerativas como el Alzheimer.
+                    

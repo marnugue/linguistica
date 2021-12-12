@@ -1,54 +1,10 @@
-El aceite de palma que abunda en los alimentos ultraprocesados (bollería, precocinados, helados...) no solo aumenta el riesgo de cáncer como alerta la Organización Mundial de la Salud.
+Proponen nuevos biomarcadores para determinar daño neuronal en el Alzheimer
 
-También promueve la metástasis, es decir, la expansión del tumor. Investigadores del Institute for Research in Biomedicine (IRB) de Barcelona han descubierto que una dieta rica el ácido palmítico hace que las células tumorales desarrollen una especie de "memoria" celular que las vuelve más agresivas.
+						Una investigación del Grupo de Comunicación Intercelular de la Facultad de Biología y del Instituto de Neurociencias de la UB (UBNeuro), ha descubierto unas moléculas en el líquido cefalorraquídeo de pacientes de Alzheimer que pueden ser un potencial biomarcador del daño en las sinapsis. El estudio, publicado en Translational Neurodegeneration, cubre la falta de biomarcadores que evidencien alteraciones tempranas en las sinapsis, que suelen estar relacionadas con la pérdida de memoria y cognición en los pacientes con Alzheimer.
 
-El aceite de palma es una grasa saturada de origen vegetal y esto ya es suficiente para darle mala fama. Estas grasas van directas al hígado, que las utiliza para crear colesterol malo.
+Los investigadores han analizado varios componentes moleculares de las vesículas de centro denso (dense core vesicle, DCV) de la corteza cerebral y el líquido cefalorraquídeo de pacientes de Alzheimer y los han comparado con los de un grupo control. Estas vesículas secretan transmisores proteicos, como neuropéptidos y factores de crecimiento, en respuesta a la actividad neuronal y tienen un papel crucial en la modulación de la actividad y la plasticidad sináptica de los circuitos nerviosos.
 
-Pero lo peor del aceite de palma no es el producto en sí, sino el procesamiento que sufre para ser utilizado en la industria alimentaria.
+Los resultados muestran una correlación de los niveles de dos de esos componentes, las proteínas PC1/3 y PC2, con el grado de deterioro cognitivo y con marcadores establecidos de neurodegeneración como la agregación patológica de proteínas tau en el cerebro.
 
-Para ello se realiza previamente un proceso de refinado a temperaturas de hasta 230º, lo que genera contaminantes químicos (ésteres) que tienen un efecto tóxico para la salud y que consumimos cuando nos comemos una galleta.
-La OMS aconseja que el consumo de ésteres no debe superar los 2 microgramos diarios.
-
-El estudio del IRB Barcelona publicado en Nature ha demostrado que el ácido palmítico promueve la metástasis del cáncer.
-
-No hay que olvidar que el 90% de las muertes por cáncer son debidas a la metástasis, es decir, a la expansión del tumor primario a otros órganos vitales.
-Científicos del IRB Barcelona liderados por el Dr. Salvador Aznar-Benitah han descubierto el mecanismo mediante el cual una dieta rica en aceite de palma hace que las células tumorales se vuelvan más agresivas, es decir, con mayor capacidad de hacer metástasis.
-
-Lo que han hecho es identificar una serie de marcadores de la "memoria" que deja la exposición al ácido palmítico en las células tumorales.
-
-Dicho de otra forma: un cambio que hace que las células mantengan una mayor capacidad metastática, incluso meses después de estar expuestas al ácido graso y que podría estar relacionado con una mayor capacidad de estas células tumorales para propagarse.
-
-De hecho, en 2017 estos mismos autores publicaron un estudio señalando que el ácido palmítico se asociaba con un mayor riesgo de metástasis, pero no conocían el mecanismo. "En este trabajo detallamos el proceso, desvelamos que existe un factor de 'memoria' de la capacidad metastática y señalamos una vía terapéutica para revertirlo. Es esperanzador", explica el Dr. Aznar-Benita.
-
-Para comprobar este efecto, los investigadores han expuesto células de tumores orales y melanomas procedentes de pacientes a una dieta rica en ácido palmítico.
-
-Y han observado que tienen mayor capacidad de hacer metástasis en ratones, incluso cuando esta dieta se suministra durante un periodo muy breve de tiempo.
-
-La razón de ello, explican los investigadores, es que el ácido palmítico provoca modificaciones en el genoma de las células metastáticas (conocidas como modificaciones epigenéticas) que son permanentes.
-
-Esto hace que se vuelvan más agresivas de forma permanente. Los autores describen este comportamiento como una "memoria estable".
-
-Los resultados indican que una dieta rica en aceite de palma sería perjudicial para el desarrollo del cáncer, incluso si tiene lugar en una fase muy inicial de la enfermedad en la que el tumor primario quizás no ha sido detectado aún.
-
-Los científicos han observado que esta capacidad expansiva y colonizadora se adquiere debido al consumo de ácido palmítico (predominante en el aceite de palma), pero no ocurre así con el ácido oleico (muy abundante en el aceite de oliva) o el ácido linoleico (característico de la linaza).
-Estos resultados apuntan a que la agresividad no solo tiene que ver con el metabolismo de las grasas, sino también con las modificaciones epigenéticas que se producen en las células tumorales cuando se consume ácido palmítico.
-
-Para que una célula tumoral pueda provocar una metástasis, primero debe desprenderse del tumor de origen, introducirse en los vasos sanguíneos o linfáticos, alcanzar otro órgano vital y sobrevivir y crecer allí.
-
-En este estudio, los autores han identificado que una dieta rica en ácido palmítico permite a las células tumorales crear una red neuronal alrededor del tumor.
-
-Las células tumorales más metastáticas adquieren capacidad para llamar al sistema nervioso. Entonces, la red neuronal que se forma alrededor del tumor genera un entorno regenerativo, que las células utilizan en su propio beneficio, para crecer y expandirse.
-
-Uno de los elementos clave en la formación de la red neuronal que favorece la metástasis son las llamadas células Schwann, que rodean y protegen a las neuronas, explican desde el IRB Barcelona.
-
-Esta investigación muestra que, bloqueando a las células Schwann, por distintas vías, se inhibe la formación de esta red nerviosa, y la metástasis no se produce.
-Sin duda, se trata de una nueva vía para frenar los efectos nocivos del aceite de palma si no somos capaces de eliminarlo del todo la dieta.
-
-El aceite de palma se obtiene de la Palma Africana que se cultiva actualmente en el trópico (Asia, Sudamérica y África).
-
-Se usa en la industria alimentaria porque es una grasa sólida a temperatura ambiente; a diferencia del aceite de oliva, girasol o maíz que son líquidos.
-
-Esta textura es muy útil para crear determinadas texturas más agradables a la hora de comer o para darle brillo al producto.
-
-El problema, como decíamos, es que el aceite de palma no se usa en estado puro, sino que se somete a altísimas temperaturas para refinarlo, provocando sustancias tóxicas.
-
+Ante estos resultados concluyen que se demuestra una correlación entre los niveles de estas proteínas y grados de deterioro cognitivo y taupatía. Teniendo en cuenta que PC1/3 y PC2 son producidas solo por neuronas y mayoritariamente secretadas en las sinapsis, el trabajo propone el uso potencial de los niveles de estos componentes como biomarcadores complementarios que puedan ayudar a determinar el daño sináptico y la neurodegeneración en pacientes con Alzheimer.
+                    

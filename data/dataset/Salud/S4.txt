@@ -1,38 +1,8 @@
-Han pasado 40 años del primer diagnóstico de VIH en España. Y hace 33 años que cada 1 diciembre se celebra el Día Mundial de la Lucha contra el SIDA.
+Nuevo tratamiento local sin opiáceos frente al dolor crónico
 
-El virus VIH y la enfermedad que provoca, el SIDA, lleva décadas conviviendo con nosotros. Es un viejo conocido pero sigue siendo una asignatura pendiente de la ciencia.
-Se puede controlar con antirretrovirales y no es mortal, pero la vacuna, aunque está cada vez más cerca, todavía no es una realidad.
+						Una investigación de la Universidad de Buffalo (Estados Unidos) sobre los orígenes de la sensación de dolor ha conducido al desarrollo de un tratamiento novedoso y duradero para el dolor inflamatorio que podría ser una alternativa prometedora a los opioides. La investigación, publicada en Nature Communications, ha llevado a estos científicos a presentar patentes sobre dos conjuntos de nuevos péptidos lipidados (péptidos modificados con moléculas lipídicas) que se inyectan en el lugar de la lesión.
 
-No queda más remedio que seguir insistiendo en la prevención, que consiste en el uso del preservativo en las relaciones sexuales.
+Los autores observaron que, para señalar el dolor, un tipo específico de neuronas del dolor requiere endocitosis. Esas neuronas, denominadas neuronas del dolor que contienen el péptido relacionado con el gen de la calcitonina (CGRP), expresan preferentemente una subunidad específica de endocitosis llamada AP2A2, cosa que no hacen otras neuronas sensoriales. Este hallazgo es especialmente importante porque un subconjunto específico de neuronas del dolor en los ganglios de la raíz dorsal (DRG) del sistema nervioso periférico expresa AP2A2, mientras que otras poblaciones de neuronas sensoriales en el DRG no lo hacen.
 
-Pero, a pesar de las incontables campañas que se han hecho, esta medida preventiva no siempre se practiva.
-El 10º Barómetro de Control "Los Jóvenes y el Sexo" revela que solo el 62% de los jóvenes españoles afirma utilizar siempre preservativo en sus relaciones sexuales.
-A estas alturas, el conocimiento que se tiene del VIH y del SIDA es elevadísimo. Según el barómetro de Control.
-
-9 de cada 10 jóvenes españoles conoce la enfermedad.
-Y casi el 80%, un 2% más con respecto al año pasado, son conscientes de que el SIDA no es una infección mortal, ya que actualmente se puede vivir con ella con un diagnóstico temprano y correcto tratamiento.
-El conocimiento en materia de educación sexual es cada vez mayor entre los jóvenes, aunque hay que seguir insistiendo en ello ya que, a día de hoy, la prevención es la mejor manera de esquivar el virus.
-
-El 90% de los españoles ya utilizan distintos métodos de protección durante las relaciones sexuales.
-En cuanto al preservativo, el método de doble barrera clave para evitar el contagio de Enfermedades de Transmisión Sexual, el 62,1% de los encuestados asegura utilizarlo siempre en sus relaciones sexuales.
-Y el 28,4% afirma ponérselo casi siempre.
-Además, el 48% de los encuestados asegura que no tiene ningún tipo de reparo a la hora de comprarlos.
-FALTA AÚN MÁS CONCIENCIACIÓN
-Las tres década de SIDA y las campañas de educación social desde escuelas e instituciones han dado sus frutos, pero la labor de concienciación no ha terminado.
-
-Un 12,2% de los jóvenes afirman utilizar la "marcha atrás" como "método de protección".
-Un porcentaje no muy alto pero significativo. Esta técnica no es efectiva para evitar ni los embarazos no deseados, ni la infección por enfermedades de transmisión sexual.
-Así pues, sorprende que haya jóvenes que la definan como un "método de protección".
-También es preocupante que un 23,9% de los jóvenes españoles admitan desconocer el estado de salud sexual de la persona con la que se acuestan.
-El miedo al VIH no ha cambiado en exceso nuestros hábitos sexuales en el último año pero, según el último barómetro de Control, la pandemia sí:
-
-El 47,8% de los españoles asegura ser ahora más precavido que antes de la pandemia y ha reducido las conductas sexuales de riesgo para evitar el contagio por Covid.
-El 48,4% se muestra reacio a practicar sexo con desconocidos.
-El 70,8% de los encuestados afirma que, a pesar de los altos niveles de vacunación en nuestro país, todavía no ha recuperado sus hábitos sexuales de antes de la pandemia.
-El uso del preservativo entre los jóvenes ha aumentado cerca de un 6% a raíz de la pandemia.
-La pandemia también ha aumentado el interés por tener una pareja estable:
-
-Al 41% de los hombres y al 35,9% de las mujeres encuestados les gustaría tener una pareja estable.
-Y a golpe de confinamiento y restricciones que han limitado nuestra vida social, las prácticas de autoplacer también han aumentado.
-
-Así lo reconoce el 35,3% de los encuestados. Por sexos, un 33,4% de los hombres recurre ahora más a la masturbación, mientras que el porcentaje de mujeres es ligeramente superior, del 37,1%.
+Mediante enfoques genéticos y farmacológicos, los investigadores descubrieron que la endocitosis en estas neuronas era esencial tanto para el desarrollo como para el mantenimiento del dolor inflamatorio. Al inhibir la endocitosis con un enfoque genético o farmacológico se observó una profunda reducción en los comportamientos indicativos del dolor. Los autores confirman que la aplicación de los péptidos lipidados de forma local disminuía los comportamientos de dolor en múltiples modelos de dolor inflamatorio hasta seis días. Pero advierten que la administración local de fármacos puede, sin embargo, tener sus propias limitaciones: Tienden a difundirse rápidamente fuera del lugar donde se administran. En este caso, los péptidos se introducen en las terminaciones nerviosas y permanecer en ellas. El resultado es una reducción duradera del comportamiento del dolor.
+                    

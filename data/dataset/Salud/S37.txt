@@ -1,36 +1,8 @@
-Es normal que te alarmes si sospechas que pueda haber sangre en las heces, ya sea porque la has visto o porque has dado positivo en una prueba de sangre oculta.
+Crean vesículas extracelulares capaces de transportar al cerebro un gen modificado de la proteína AMPKα1 para revertir la obesidad
 
-El hecho de que esta sea una posible señal de cáncer de colon puede asustar pero piensa que hay otras cosas, y no son graves, que pueden provocar este alarmante síntoma.
+						El grupo del CiMUS de la USC NeurObesity, en colaboración con investigadores de la Universidad de Angers (Francia), ha conseguido cargar vesículas extracelulares con un gen modificado que inhibe la acción de la proteína AMPKα1 en un grupo muy reducido de neuronas del hipocampo, una región cerebral de difícil acceso.
 
-La realidad es que en la mayoría de casos lo que refleja esta sangre son hemorroides, un problema que llega a padecer en algún momento cerca del 40% de la población. Además también puede ser por una fisura anal y otras muchas patologías.
+Con esta novedosa estrategia se ha logrado revertir la obesidad en ratones muy obesos, a pesar de seguir ingiriendo una dieta con elevado contenido en grasa. El trabajo, publicado en Nature Metabolism, va más allá del campo de la obesidad y puede extenderse a otras patologías relacionadas con el cerebro.
 
-Pero es importante no dejarlo pasar, puesto que es cierto que puede ser indicio de cáncer. Lo importante es hacer una comprobación y ante cualquier duda consultar al médico.
-
-El color de las heces y del sangrado puede ser revelador y dar pistas al médico del problema.
-
-Por eso no hay que tener vergüenza y echar un vistazo antes de tirar de la cadena. La sangre puede estar mezclada con las heces o rodearla. También puede salir antes y después de las deposiciones. Todo eso hay que tenerlo en cuenta para un mejor diagnóstico.
-
-Si se trata de sangre roja, que es fácil apreciar a simple vista, que mancha el papel de vater o sigue goteando tras defecar, se debe a sangrado en el ano o el final del intestino. Es el indicador habitual de una hemorroides o fisura anal.
-Las heces negras como alquitrán, que se engancha en el váter y con un olor especial, distintivo, puede indicar que el sangrado se ha producido más arriba, en el estómago o intestino delgado. En este caso la visita al médico es obligada para llegar cuanto antes a un diagnóstico.
-
-Heces mezcladas con sangre, coágulos o sangre granatosa indica que procede probablemente del intestino grueso y que lleva ya algunas horas. Podría tratarse de cualquier patología inflamatoria en el intestino, pólipos o incluso un cáncer colorrectal. En todo caso es obligada la visita al médico y la realización de una colonoscopia.
-La expulsión de gases acompañados de moco y sangre no es propio de las hemorroides y podría tratarse de un cáncer rectal, entre otros problemas. También exige consulta.
-
-“La sangre no es un signo por sí de que se padezca un cáncer –nos tranquiliza el proctólogo Lorenzo Viso Pons, de la clínica Quirón–. Muchas veces los afectados no ven sangre y se detecta el cáncer por otros medios, por ejemplo, una señal que hay que tener en cuenta es una anemia. Usualmente vemos una anemia por sangrado de las hemorroides. Pero la anemia por falta de hierro, sin otra causa evidente obliga a practicar una colonoscopia.”
-
-Por otra parte, el paciente puede no apreciar a simple vista si hay sangrado. Tanto porque no está habituado a detectar las manchas de sangre o sobre todo porque su presencia es muy pequeña y pasa desapercibida entre las heces.
-
-Por ello la Seguridad Social ya tiene en marcha una campaña para que la gente analice si hay restos de sangre. La prueba es muy sencilla. Consiste en utilizar una tira reactiva que cambia de color si entra en contacto con la sangre.
-
-La comunidad científica sugiere que esta prueba se debe realizar cada dos años en las personas entre 50 y 70 años. Algunas comunidades ya informan a la población para que vayan a recoger el tubo de plástico con las instrucciones y que puedan hacer la prueba en casa.
-
-Se calcula que detectado precozmenteel 90% de los cánceres de colon pueden curarse, y es uno de los cánceres más habituales en nuestro país.
-
-Las hemorroides se producen cuando se hinchan las venas del tejido que actúan como almohadillas de las heces. Cuando la persona sufre estreñimiento, entre otros problemas, se abultan y pueden sangrar e incluso sobresalir del ano. Las hemorroides son un problema más frecuente en hombres que en mujeres, aunque la mayoría de embarazadas sufren hemorroides tras el parto.
-
-“La señal más evidente de las hemorroides es que sangran, en forma de sangre muy roja, como un espray en el esfuerzo previo a la expulsión o como un goteo mientras defecas o después de la deposición”, explica el doctor Viso.
-
-Otro elemento que deja claro el doctor es que el paciente que tiene hemorroides sangra siempre. No existe síndrome hemorroidal sin sangrado. Contrariamente a lo que se cree, las hemorroides no duelen. Si tiene algún tipo de molestias, pero no sangra, no se le puede atribuir a las hemorroides. Se tendrá que comprobar.
-
-La fisura anal es una consecuencia de la contracción exagerada del esfínter interno y está provocada por una falta de riego sanguíneo en el margen del ano. Precisamente porque se trata de una úlcera, no aparece siempre con episodios de sangrado. Sólo son muy esporádicos. Su síntoma principal es el dolor, escozor o irritación después de ir al baño.
-
+Los investigadores recuerdan que uno de los mayores problemas que implica buscar un tratamiento contra la obesidad es que muchos de los potenciales mecanismos que regulan la masa corporal están localizados en el cerebro, especialmente en el hipotálamo, lo que supone un problema, puesto que hay que atravesar el cráneo y la barrera hematoencefálica. Por ello, la investigación se ha centrado en el desarrollo de una nueva estrategia para tratar la obesidad: el uso, a modo de vesículas extracelulares, de nanopartículas naturales presentes en el organismo, cuya ventaja reside precisamente en su tamaño, puesto que atraviesan la barrera hematoencefálica, actuando de forma eficiente en el proceso de inhibición de la AMPKα1.
+                    
