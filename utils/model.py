@@ -99,20 +99,43 @@ class Model():
         Train_Vectorized_tfidf = tfidf_vectorizer.fit_transform(x_train)
         Test_Vectorized_tfidf = tfidf_vectorizer.transform(x_test)
 
+        print("\n________ Modelos Bag-of-words ________")
         print("\n________ Modelo Similitud Coseno ________")
-        y_pred,similarity = self.cos_similarity_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
+        y_pred,similarity = self.cos_similarity_classification(Train_Vectorized_bow, Test_Vectorized_bow, y_train)
         c_matrix = confusion_matrix(y_true = y_test, y_pred = y_pred)
         print(c_matrix)
         print(classification_report(y_true = y_test, y_pred = y_pred, target_names = ['Deporte', 'Salud', 'Política']))
 
         print("\n________ Modelo Bayes ________")
-        y_pred,y_probs = self.bayes_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
+        y_pred,y_probs = self.bayes_classification(Train_Vectorized_bow, Test_Vectorized_bow, y_train)
         c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1)
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1, target_names=['Deporte', 'Salud', 'Política']))
 
         print("\n________ Modelo Regresión Logística ________")
-        y_pred,y_probs = self.logistic_regresion_clasification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
+        y_pred,y_probs = self.logistic_regresion_clasification(Train_Vectorized_bow, Test_Vectorized_bow, y_train)
         c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1)
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1, target_names=['Deporte', 'Salud', 'Política']))
+
+
+        print("\n________ Modelos TF-IDF ________")
+        print("\n________ Modelo Similitud Coseno ________")
+        y_pred, similarity = self.cos_similarity_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
+        c_matrix = confusion_matrix(y_true=y_test, y_pred=y_pred)
+        print(c_matrix)
+        print(classification_report(y_true=y_test, y_pred=y_pred, target_names=['Deporte', 'Salud', 'Política']))
+
+        print("\n________ Modelo Bayes ________")
+        y_pred, y_probs = self.bayes_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
+        c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs, axis=1) + 1)
+        print(c_matrix)
+        print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs, axis=1) + 1,
+                                    target_names=['Deporte', 'Salud', 'Política']))
+
+        print("\n________ Modelo Regresión Logística ________")
+        y_pred, y_probs = self.logistic_regresion_clasification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
+        c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs, axis=1) + 1)
+        print(c_matrix)
+        print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs, axis=1) + 1,
+                                    target_names=['Deporte', 'Salud', 'Política']))
