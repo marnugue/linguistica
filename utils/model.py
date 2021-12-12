@@ -37,24 +37,28 @@ class Model():
             Test_list.append(datos_salud[i])
             Test_list.append(datos_politica[i])
 
-        Train = pd.DataFrame(Train_list, columns=['Texto', 'Etiqueta'])
+        Train = pd.DataFrame(Train_list, columns=['Texto', 'Etiqueta','Nombre'])
 
-        Test = pd.DataFrame(Test_list, columns=['Texto', 'Etiqueta'])
+        Test = pd.DataFrame(Test_list, columns=['Texto', 'Etiqueta','Nombre'])
 
         x_train = Train['Texto']
         y_train = Train['Etiqueta'].tolist()
+        name_train = Train['Nombre'].tolist()
         x_test = Test['Texto']
         y_test = Test['Etiqueta'].tolist()
+        name_test = Test["Nombre"].tolist()
         #print(np.shape(x_train), np.shape(x_test))
         #print (x_train)
 
-        return x_train, y_train, x_test, y_test
+        return x_train, y_train, x_test, y_test,name_train,name_test
 
-    def orderProbs(self,probs):
-        res = []
-        for prob in probs.tolist():
-            res.append([prob.index(i) for i in sorted(prob, reverse=True)][:3]) 
+    def createDf(self,probs,modelName,y_pred,name):
+        res = np.full((len(probs),1),modelName)
+        res = np.append(res,probs,axis=1)
+        res = np.append(res,np.array(y_pred).reshape((len(probs),1)),axis=1)
+        res = np.append(res,np.array(name).reshape((len(probs),1)),axis=1)
         return res
+        
 
     # Método para obtener predicciones clasificador similitud del coseno
     def cos_similarity_classification(self, x_train, x_test, y_train):
@@ -81,7 +85,6 @@ class Model():
         classifier = naive_bayes.BernoulliNB()
         classifier.fit(x_train, y_train)
         y_pred_prob = classifier.predict_proba(x_test)
-        prueba = self.orderProbs(y_pred_prob)
         y_pred = classifier.predict(x_test)
         return (y_pred, y_pred_prob)
 
@@ -95,7 +98,7 @@ class Model():
 
     def train(self):
         print("Entrenando los modelos...\n")
-        x_train, y_train, x_test, y_test = self.prep_dataset()
+        x_train, y_train, x_test, y_test,name_train,name_test = self.prep_dataset()
 
         bow_vectorizer = CountVectorizer()
         Train_Vectorized_bow = bow_vectorizer.fit_transform(x_train)
@@ -104,7 +107,7 @@ class Model():
         tfidf_vectorizer = TfidfVectorizer()
         Train_Vectorized_tfidf = tfidf_vectorizer.fit_transform(x_train)
         Test_Vectorized_tfidf = tfidf_vectorizer.transform(x_test)
-        df = pd.DataFrame({},columns=["method","class1","class2","class3","realClass"])
+        df = pd.DataFrame({},columns=["method","class1","class2","class3","realClass","Name"])
 
         print("\n________ Modelo Similitud Coseno ________")
         y_pred,similarity = self.cos_similarity_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
@@ -114,12 +117,17 @@ class Model():
 
         print("\n________ Modelo Bayes ________")
         y_pred,y_probs = self.bayes_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
+        arr = self.createDf(name=name_test,modelName="bayes",y_pred=y_test,probs=y_probs)
+        df = df.append(pd.DataFrame(arr,columns=df.columns),ignore_index=True)
         c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1)
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1, target_names=['Deporte', 'Salud', 'Política']))
 
         print("\n________ Modelo Regresión Logística ________")
         y_pred,y_probs = self.logistic_regresion_clasification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
+        arr = self.createDf(name=name_test,modelName="regresion",y_pred=y_test,probs=y_probs)
+        df = df.append(pd.DataFrame(arr,columns=df.columns),ignore_index=True)
         c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1)
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1, target_names=['Deporte', 'Salud', 'Política']))
+        df.to_csv("modelResults.csv")
