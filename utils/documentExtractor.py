@@ -30,7 +30,7 @@ def extract():
         if "AS.html" in file:
             newFormat = "D" +str(iD) + newFormat
             iD+=1
-            print(file)
+            print(f"\r{file}",end="",flush=True)
             tiltle = soup.find("h1",{"class":"art-headline"})
             description = soup.find("meta",  attrs={'name': 'Description'})
             soup = soup.find("div", {"id": "cuerpo_noticia"})
@@ -94,7 +94,7 @@ def extract():
                     fd.write("\n")
                 fd.writelines(soup.get_text())
             fd.close()
-        elif "-D.html" in file:
+        elif "-MD.html" in file:
             newFormat = "D" +str(iD) + newFormat
             iD+=1
             # title 

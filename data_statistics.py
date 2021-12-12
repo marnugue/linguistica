@@ -9,7 +9,7 @@ import string
 import os
 import re
 import matplotlib.pyplot as plt
-
+import sys
 # as md S
 
 # Installer nltk package
@@ -73,7 +73,8 @@ def cleanTexts(path, lematizer=False, stopword=True, steaming=True, extractor=Fa
         files = os.listdir(path_datos + "/" + c)
         for f in files:
             if numero_documentos % 60 == 0:
-                print("Extrayendo documento " + str(numero_documentos) + "...")
+                print("\rExtrayendo documento " + str(numero_documentos) + "...",flush=True)
+                sys.stdout.flush()
 
             # Abrir los .txt, eliminar saltos de linea y agruparlos todos en un str
             with open(path_datos + "/" + c + "/" + f, encoding="utf-8") as documento_txt:
@@ -99,7 +100,9 @@ def cleanTexts(path, lematizer=False, stopword=True, steaming=True, extractor=Fa
 
             # Contar palabras regex
             if index % 10 == 0:
-                print("Procesando instancia " + str(index) + "...")
+                print('\rProcesando instancia {index} ...'.format(index=index),end="",flush=True)
+                
+                
             text_tokens = re.findall(regex, instance[0])
             n_palbras_documento = 0
             for palabra in text_tokens:

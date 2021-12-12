@@ -1,38 +1,8 @@
-Hasta ahora sabíamos que la hipertensión, la diabetes mal controlada, la obesidad, la fibrilación auricular o la EPOC eran las principales comorbilidades de la Covid, es decir, enfermedades que empeoran en gran medida el pronóstico de la infección.
+El bilingüismo se confirma como un aspecto natural a nivel cerebral
 
-Ahora, un estudio del Instituto Hospital del Mar de Investigaciones Médicas (IMIM-Hospital del Mar) publicado en la revista Stroke revela que haber sufrido previamente algún tipo de ictus incrementa 3 veces el riesgo de morir después de contagiarse de Covid.
+						Un equipo de neurocientíficos de la Universidad de Nueva York (EE.UU.) ha descubierto que el cerebro utiliza un mecanismo común tanto para combinar palabras de un solo idioma como para combinar palabras de dos idiomas diferentes. Sus hallazgos indican. por tanto, que el cambio de idioma es natural para quienes son bilingües porque el cerebro tiene un mecanismo que no detecta que se ha cambiado de idioma. El estudio, publicado en eNeuro, pone de manifiesto que no se conocen bien los mecanismos neurológicos utilizados para comprender y producir más de un idioma. Los bilingües suelen mezclar sus dos lenguas cuando conversan entre sí, lo que plantea preguntas sobre el funcionamiento del cerebro en esos intercambios.
 
-En el caso de las personas de entre 60 y 80 años, este riesgo continúa siendo 1,3 veces más alto que las personas del mismo grupo de edad que no han sufrido un ictus.
+Para entender mejor estos procesos los investigadores exploraron si los bilingües interpretan estas expresiones en lenguas mixtas utilizando los mismos mecanismos que cuando comprenden expresiones en una sola lengua o, por el contrario, si la comprensión de las expresiones en lenguas mixtas implica al cerebro de una manera única. Para comprobarlo midieron la actividad neuronal de los bilingües coreano/inglés. Para ello, los sujetos del estudio vieron una serie de combinaciones de palabras e imágenes en la pantalla de un ordenador. A continuación, tenían que indicar si la imagen coincidía o no con las palabras precedentes. Para medir la actividad cerebral de los sujetos del estudio durante estos experimentos, los investigadores utilizaron la magnetoencefalografía (MEG), una técnica que mapea la actividad neuronal registrando los campos magnéticos generados por las corrientes eléctricas producidas por nuestro cerebro.
 
-Es la conclusión del primer estudio poblacional realizado en España sobre la relación entre la mortalidad después de tener la Covid-19 y el hecho de haber sufrido un ictus anteriormente, y uno de los pocos hechos hasta ahora en el mundo.
-
-El estudio ha analizado datos de todas las personas infectadas por el coronavirus SARS-CoV-2 en Cataluña entre el 1 de febrero de 2020 y el 1 de julio del mismo año.
-
-En total han sido 91.629 personas, de las cuales 5.752 (el 6,27%) habían sufrido un ictus antes de la infección.
-De estas, el 30% murió después de sufrir la Covid; mientras que solo un 9% de los que no habían sufrido un ictus anteriormente fallecieron por la infección.
-
-En el ictus, el tiempo es vida. Si pasan muchas horas hasta que se administra tratamiento, la zona del cerebro que no ha recibido riego sanguíneo no se recuperará y quedarán secuelas.
-
-Y estas secuelas son las que probablemente aumentarían el riesgo de muerte en caso de contraer la Covid posteriormente. Así lo explica la Dra. Elisa Cuadrado, médica adjunta del Servicio de Neurología, autora principal del trabajo e investigadora en el IMIM-Hospital del Mar:
-
-Estas personas "sufren un mayor grado de discapacidad derivado del ictus, es decir, tienen, entre otros, problemas de movilidad con lo cual, en el caso de una infección, es más probable que ésta sea más grave a nivel respiratorio, ya que tienen más problemas para ventilar o tragar".
-Por tanto, "es la discapacidad secundaria al ictus la que creemos que hace que tengan un riesgo más alto de sufrir una infección por Covid-19 más grave y de morir después de sufrirla o de tener más complicaciones derivadas de la infección", concluye la Dra. Cuadrado.
-
-El trabajo concluye que, contrariamente a lo que se podía esperar, el riesgo es más alto en el colectivo de personas más jóvenes que han sufrido un ictus, las de menos de 60 años.
-
-También es alto en el grupo entre los 60 y los 70 años, y no es significativo en las de más de 80 años, seguramente porque sufren otras enfermedades crónicas que empeoran aún más el pronóstico de la Covid.
-Por contra, no se han encontrado diferencias entre hombres y mujeres.
-
-El riesgo también varía según el tipo de ictus, y los que lo tienen peor son los que han sufrido un ictus hemorrágico:
-
-Entre las personas que han sufrido ictus hemorrágico, el tipo de accidente cerebrovascular que provoca más secuelas, el riesgo se eleva a 5 veces más entre las personas más jóvenes; y se mantiene 2 veces más alto en las que tienen entre 70 y 80 años.
-Entre las que han sufrido un ictus isquémico, el riesgo es 3 veces más alto si se tienen menos de 60 años; y 1,3 veces más alto entre las personas que tienen entre 70 y 80 años.
-
-Respecto a los pacientes que han sufrido una hemorragia subaracnoidea, el riesgo es 5 veces más alto entre los más jóvenes, al tratarse de un tipo de accidente cerebrovascular más habitual en personas de esta franja de edad.
-En casos de ictus transitorios, más leves y que pueden provocar menos secuelas, no se ha detectado un incremento del riesgo de mortalidad.
-Los investigadores también han visto que cuanto más reciente ha sido el ictus, más riesgo hay de morir por Covid si se contrae la infección.
-
-A tenor de los resultados del estudio, los investigadores defienden que se debe priorizar el colectivo que ha sufrido algún tipo de ictus y tiene menos de 60 años en las campañas de vacunación contra la Covid-19.
-
-"Una persona de menos de 70 años que ha sufrido un ictus y que tiene una discapacidad provocada por esta patología previa, tiene que ser considerada población de riesgo y priorizada en la planificación de la vacunación contra esta enfermedad", apunta el Dr. Àngel Ois, médico adjunto del Servicio de Neurología y también investigador del IMIM-Hospital del Mar.
-
+Las grabaciones mostraron que los bilingües coreano-inglés, al interpretar expresiones en lenguas mixtas, utilizaban el mismo mecanismo neural que cuando interpretaban expresiones en una sola lengua. En concreto, el lóbulo temporal anterior del cerebro era insensible a si las palabras que recibía eran del mismo idioma o de idiomas diferentes. Esta región, por tanto, procedía a combinar palabras en significados más complejos siempre que los significados de las dos palabras se combinaran en un significado más complejo.
+                    

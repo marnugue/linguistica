@@ -1,33 +1,10 @@
-El dolor de pies es una de las dolencias que más pueden marcar nuestra calidad de vida a cualquier edad. Y es que seamos o no deportistas, especialmente si debes trabajar de pie, la fascitis plantar es una de las causas más comunes de dolor de talón. Problema más común que el propio espolón calcáneo. Por ello, es muy importante distinguir los síntomas y realizar el tratamiento adecuado con ejercicios y remedios enfocados a disminuir la inflamación.
+La ELA provoca alteraciones en las células microgliales de la retina y muerte de neuronas ganglionares
 
-Esta inflamación afecta a una banda gruesa de tejido que atraviesa la planta del pie. Esta, conocida como la fascia plantar, es la conexión del hueso del talón con los dedos de los pies.
+						Un estudio del Instituto de Investigaciones Oftalmológicas Ramón Castroviejo de la Universidad Complutense de Madrid, publicado en Neural Regeneration Research, ha detectado alteraciones en la retina producidas por la esclerosis lateral amiotrófica (ELA), concretamente cambios en células microgliales, así como apoptosis de neuronas ganglionares.
 
-Se trata de una afección típica de deportistas, especialmente corredores, pero también de personas con sobrepeso o de aquellas que usan un calzado inadecuado. Factores de riesgo que se aúnan a la edad, pues es común sufrirla entre los 40 y 60 años.
-Dolor punzante al levantarse y apoyar los pies.
-Disminución del dolor de pies que regresa tras largos períodos sentado o estando de pie sin descanso.
-El dolor empeora tras el ejercicio, no durante este.
-La fascia plantar tiene la forma de un arco, que sostiene el arco del pie y absorbe el choque al caminar. Si la tensión y el estrés aplicado en este arco se vuelven demasiado grandes, pueden ocurrir pequeños desgarros en la fascia. Los estiramientos y desgarros repetitivos pueden irritar o inflamar la fascia, aunque la causa sigue siendo incierta en muchos casos de fascitis plantar.
-Los remedios de la fascitis plantar ocupan varias ramas: cirugías, terapias o diversons antiinflamantorios.
+Además de describir los cambios en la retina, el trabajo también señala que esas modificaciones tienen una evolución a lo largo de la enfermedad. La microglía pasa de un estado o fenotipo M2 en estadios más precoces al M1 en estadios finales. Esto se había observado en la médula espinal de estos pacientes, pero no en la retina, lo que supone un avance, porque la monitorización de los pacientes puede ser menos invasiva.
 
-Medicamentos
-Analgésicos —como ibuprofeno o naproxeno— pueden aliviar el dolor de la inflamación.
+Para desarrollar el estudio, los investigadores registraron alteraciones retinianas mediante tomografía de coherencia óptica (OCT). Una vez detectado 'in vivo' en humanos, procedieron a confirmarlo en modelo animal, mediante análisis microscópico con técnicas inmunohistoquímicas en ratones con la mutación superóxido dismutasa 1 (SOD1).
 
-Terapias y medidas conservadoras
-Fisioterapia
-Férulas nocturnas
-Ortopedia
-Cirugía, infiltraciones y medidas más agresivas
-Inyecciones con esteroides en el área sensible.
-Terapia de ondas de choque extracorporales.
-Reparación ultrasónica del tejido.
-Cirugía, el último recurso.
-Dentro de los interrogantes que despierta esta dolencia, hay varias preguntas frecuentes: ¿cómo estirar la fascia plantar o cómo se quita el dolor?  Para ello, hay 3 ejercicios principales: estiramiento, fortalecimiento y liberación miofascia con pelotas o botellas de plástico frías.
-Se basa en la relación del tejido de las fascia plantar. Para ello, una pelota o un elemento cilíndrico como una botella de plástico permiten automasajear la planta del pie deslizando el pie hacia adelante y hacia atrás. El frío, además, aporta un efecto analgésico y antiinflamatorio.
-
-Es recomendable realizar el ejercicio durante 5 minutos con cada pie.
-Este tipo de ejercicios alivia la tensión acumulada en la planta del pie. Para ello, lo mejor es una toalla o una banda elástica para maximizar el efecto.
-
-Una vez que tengamos la herramienta en la mano, es momento de sentarse, disponerla bajo el pie y levantarlo gradualmente mientras estiramos de la toalla o de la cinta.
-
-El objeto es acercar la punta del pie a la pierna, manteniendo la rodilla estirada en 3 series con 10 repeticiones con cada pie.
-De cara a trabajar la musculatura intrínseca es necesario incidir en el arco plantar. Para ello,hay que doblar los dedos con resistencia. Para ello, basta con extender una toalla en el suelo y tratar de arrastrarla con los dedos del pie. Lo ideal es repetir este ejercicio 3 minutos con los dos pies al mismo tiempo.
+Hasta la fecha, pocos estudios habían descrito qué ocurre en la retina y más específicamente en las células microgliales.
+                    

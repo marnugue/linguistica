@@ -1,41 +1,10 @@
-Los casos de enfermedad de Crohn se han duplicado en los últimos diez años.
+Una reducción intensiva de las cifras de presión arterial podría no prevenir la aparición de alteraciones cognitivas
 
-Esta patología causa inflamación de forma crónica en el tracto digestivo, sobre todo en el intestino, lo que puede provocar calambres, dolor abdominal y diarreas persistentes.
+						Un grupo de investigadores de la división de neurociencias del Hôpital de l’Enfant-Jésus (Canadá) ha desarrollado un estudio en el que ponen en duda la validez de una reducción intensiva de cifras de presión arterial como herramienta de prevención de la incidencia del deterioro cognitivo y la demencia en adultos con hipertensión.
 
-Tanto es así que los afectados pueden llegar a ir al baño más de 15 veces al día, dato que da una idea de lo que afecta a la calidad de vida de los pacientes.
+Este metaanálisis, publicado en JAMA Network Open, realizó un cribado y extracción de datos de forma independiente por 2 revisores, siendo su objetivo primario el deterioro cognitivo. Los objetivos secundarios incluyeron la incidencia de demencia, deterioro cognitivo leve (DCL), eventos cerebrovasculares, eventos adversos graves y mortalidad por todas las causas.
 
-Puede presentarse a cualquier edad, pero cada vez hay más niños y adolescentes que la sufren. Ante el aumento de casos, los investigadores no dejan de preguntarse qué puede haber detrás de esta enfermedad cuyo origen todavía no se conoce del todo.
+De 7755 citas, se identificaron 16 publicaciones de 5 ensayos con 17 396 participantes  y 2 ensayos adicionales en curso. Los 5 ensayos concluidos que se incluyeron en los análisis cuantitativos se consideraron con un riesgo de sesgo entre incierto y alto. La duración media del seguimiento fue de 3,3 años. La reducción intensiva de la PA no se asoció significativamente con el rendimiento cognitivo global, la incidencia de demencia o la incidencia de DCL en comparación con el tratamiento estándar. Sin embargo, se encontró una reducción de los eventos cerebrovasculares en el grupo intensivo sin un mayor riesgo de eventos adversos graves o mortalidad.
 
-Ahora, un estudio de la Universidad McMaster sugiere que el estrés psicológico podría estar detrás y actuar como desencadenante de los brotes propios de esta enfermedad.
-Los investigadores demostraron en ratones que las hormonas del estrés suprimían lo que se conoce como sistema inmunológico innato.
-
-El sistema inmunológico innato protege el intestino de las enterobacterias invasoras, un grupo de bacterias que incluye la E. coli y que se ha relacionado con la enfermedad de Crohn.
-
-La clave de esa inmunidad innata está en la barrera protectora que crean las células epiteliales en el intestino.
-Estas células que recubren el intestino reciben las señales de las células inmunes y, siguiendo estrictamente sus órdenes, mantienen alejados a los microbios dañinos, reparan la pared celular y secretan moco.
-Pero si las células inmunes no funcionan adecuadamente, la pared celular epitelial puede romperse, permitiendo que los microbios asociados con la enfermedad de Crohn invadan el intestino y desencadenen los típicos brotes con diarreas, dolor, calambres...
-La inmunidad innata está diseñada para protegernos de microbios que no pertenecen al intestino, como las bacterias dañinas que pueden causar enfermedades.
-
-"Cuando nuestro sistema inmunológico innato funciona correctamente, evita que las bacterias dañinas nos colonicen; pero cuando se descompone, deja una abertura para que los patógenos colonicen lugares que normalmente no pueden y causan enfermedades", señala Brian Coombes, autor principal del estudio.
-
-Según la investigación, el estrés psicológico boicotea esa capacidad innata que tiene el cuerpo para combatir las bacterias intestinales que pueden estar implicadas en la enfermedad de Crohn.
-Las hormonas del estrés son básicamente cuatro: norepinefrina, epinefrina, dopamina y cortisol.
-
-Está demostrado que unos niveles altos de estas hormonas aumentan el riesgo de desarrollar hipertensión; y en el caso del cortisol se eleva el riesgo de eventos cardiovasculares.
-
-También es sabido que el estrés afecta directamente a la microbiota, que a su vez nos protege de patógenos y contribuye a regular el sistema inmune.
-Así pues, se ha comprobado que reducir el estrés disminuye el riesgo cardíaco y mejora la composión de la microbiota.
-
-En el caso de la enfermedad de Crohn, los investigadores observaron que al eliminar las hormonas del estrés en los ratones, inmediatamente se restauraba la función de las células inmunes y epiteliales del intestino, bloqueando el paso de microbios dañinos.
-Esta enfermedad inflamatoria intestinal afecta en gran medida a la calidad de vida del que la sufre.
-
-No se sabe exactamente la causa, pero tal y como señalan los autores del estudio, estas personas tienen un microbioma intestinal alterado, sobre todo por bacterias como la E. coli.
-
-Y según este hallazgo, factores como el estrés actuarían como elemento desestabilizador de la microbiota.
-
-Por tanto, hay evidencia científica como para asegurar que reducir los niveles de estrés es una buena medida preventiva para evitar brotes.
-A día de hoy la enfermedad de Crohn no tiene cura y los tratamientos están dirigidos a aliviar los síntomas.
-
-Hay fármacos para disminuir la inflamación intestinal, analgésicos para aliviar el dolor y antidiarreicos.
-También es importante controlar la dieta para que no haya carencias nutricionales debido a las diarreas.
-Si la enfermedad de Crohn provoca fístulas o perforación intestinal puede ser necesaria la cirugía.
+Por todo ello, los autores aseguran que no se halla una asociación significativa entre la reducción de la PA y un menor riesgo de deterioro cognitivo, demencia o DCL. La certeza de esta evidencia se calificó como baja debido al tamaño limitado de la muestra, el riesgo de sesgo de los ensayos incluidos y la heterogeneidad estadística observada. Por lo tanto, las pruebas actuales disponibles no justifican el uso de objetivos de PA más bajos para la prevención del deterioro cognitivo y la demencia.
+                    

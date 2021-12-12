@@ -1,56 +1,8 @@
-Más del 3% de los adultos en todo el mundo tiene aneurismas cerebrales. Se trata de un defecto, congénito o adquirido, que provoca un ensanchamiento de la pared de una arteria cerebral.
+La terapia génica consigue aumentar los beneficios de la levodopa en pacientes con Parkinson
 
-Esta dilatación o protuberancia no presenta síntomas y la mayoría no se romperá nunca, por tanto no dará problemas.
+						En fases tardías del Parkinson la levodopa pierde efectividad debido a la disminución de neuronas liberadoras de dopamina. Pero un nuevo estudio preclínico de Northwestern Medicine (EE.UU.), con la colaboración de Investigadores de la Universidad de Sevilla (US) y del Instituto de Biomedicina de Sevilla (IBIS), ha mostrado que una terapia genética dirigida a la substantia nigra revierte esta situación.
 
-Se sabe que factores como el tabaco o la hipertensión aumentan el riesgo de ruptura del aneurisma, lo que puede provocar una hemorragia cerebral.
+Según el estudio, publicado en Nature, la terapia génica permite a la levodopa recrear el entorno encontrado en el cerebro sano, eliminando la actividad cerebral aberrante. Este estudio se ha realizado en ratones modificados genéticamente, careciendo del gen Ndufs2, que altera el complejo mitocondrial I (CMI) y genera en los ratones un parkinsonismo progresivo.
 
-Ahora, una nueva investigación publicada en la revista Journal of the American Heart Association de la Asociación Americana del Corazón, revela que el insomnio también podría actuar como factor de riesgo. De ahí la importancia de cuidar el sueño para una buena salud cardiovascular.
-
-Aproximadamente un 2,5% de los aneurismas intracraneales se romperán y provocarán una hemorragia subaracnoidea, también llamada hemorragia cerebral.
-
-La hemorragia cerebral es un tipo de accidente cerebrovascular que ocurre cuando un vaso sanguíneo en la superficie del cerebro se rompe y sangra en el espacio entre el cerebro y el cráneo.
-
-"Los aneurismas rotos son muy graves. Por lo tanto, es extremadamente importante identificar los factores de riesgo modificables que pueden ayudar a prevenir la rotura de los aneurismas", señala la autora del estudio Susanna C. Larsson, del Instituto Karolinska en Estocolmo.
-
-La mayoría de los aneurismas no provocan síntomas, sobre todo si son pequeños. En el caso de que sean grandes, puede ejercer presión sobre los tejidos del cerebro. En estos casos pueden notarse los siguientes síntomas:
-
-Presión o dolor en un ojo, pupila más dilatada y visión doble.
-Adormecimiento de un lado del rostro.
-
-Dolor de cabeza intenso y repentino.
-Si hay síntomas conviene acudir enseguida al médico ya que estas señales podrían alertar que podría estar filtrándose sangre por el aneurisma, lo que podría ser un paso previo a una rotura.
-
-Controlar los factores de riego es clave para evitar tanto la formación del aneurisma (algunos son de nacimiento pero otros se forman a lo largo de la vida) como su rotura.
-
-Por eso es tan importante conocer hasta qué punto determinados trastornos o malos hábitos revisten peligrosidad.
-
-El vínculo con el tabaquismo o la presión arterial alta está ampliamente demostrado, pero se sabe mucho menos de otros factores.
-
-Parra salir de dudas, el equipo del Instituto Karolinska estudió la relación entre el aneurisma y su rotura con los siguientes factores:
-
-El consumo de café.
-El sueño.
-La actividad física.
-El índice de masa corporal (IMC).
-
-Los niveles de glucosa en sangre y la diabetes tipo 2.
-La presión arterial.
-El colesterol
-La inflamación crónica.
-La función renal.
-
-Los investigadores revisaron datos de varios estudios y analizaron casi 6.300 casos de aneurisma intracraneal y casi 4.200 casos de hemorragia cerebral.
-
-Y descubrieron que había factores como el sueño que también afectaban al riesgo de rotura del aneurisma. Estas son las principales conclusiones del análisis:
-
-Una predisposición genética al insomnio se asoció con un aumento del 24% en el riesgo de aneurisma intracraneal y hemorragia subaracnoidea.
-El riesgo de aneurisma intracraneal fue aproximadamente tres veces mayor para los fumadores que para los no fumadores.
-El riesgo de aneurisma intracraneal era casi tres veces mayor por cada aumento de 10 mm Hg en la presión arterial diastólica (el número inferior en una lectura de presión arterial).
-Los niveles altos de triglicéridos y el IMC alto no demostraron aumentar el riesgo de aneurisma ni de rotura.
-
-Los autores del trabajo son precavidos y reconocen que la asociación entre insomnio y aneurisma no se había visto hasta ahora, por tanto señalan que son necesarios más estudios para confirmarlo.
-
-De todos modos, también sugieren que, tal y como apunta la investigación, son muchos los factores modificables que afectan tanto a la formación del aneurisma como a su rotura.
-
-Nos referimos al tabaco, al insomnio o a la hipertensión. Controlar esos factores de riesgo modificables es importantísimo para evitar la formación y rotura de aneurismas, y debería formar parte de las estrategias de prevención.
-
+Los investigadores aseguran que el objetivo final es comprender mejor la fisiopatología de la enfermedad de Parkinson y contribuir con este conocimiento al desarrollo de terapias novedosas que mejorarán la calidad de vida y la expectativa de los pacientes. En este sentido, subrayan que los hallazgos en ratones podrían ayudar a identificar a los humanos en las primeras etapas de la enfermedad de Parkinson, a desarrollar terapias para retardar la progresión de la enfermedad y a tratar la enfermedad en sus últimas etapas.
+                    

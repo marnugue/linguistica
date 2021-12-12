@@ -1,34 +1,8 @@
-El Síndrome de Inmunodeficiencia Adquirida (sida) hace 40 años que llegó a España, que llenó titulares y que empezó a matar a miles de personas.
+Los ácidos grasos tóxicos podrían ser responsables de la muerte de las células cerebrales tras una lesión
 
-Hoy el VIH, el virus del sida, está controlado en occidente. Se puede frenar con medicamentos antirretrovirales. Pero no es la solución. Obliga a tomar una pastilla diaria de por vida.
-“Olvidarla supone que el VIH, que queda latente, reaparezca con la misma fuerza del primer día. Varios olvidos acaban afectando al sistema inmunitario”, explica la doctora Beatriz Mothe del servicio de infecciosas del Hospital Germans Trias i Pujol.
+						Las células que normalmente nutren a las células cerebrales sanas liberan ácidos grasos tóxicos después de que las neuronas resulten dañadas, según muestra un nuevo estudio en roedores. Los investigadores, de la Facultad de Medicina Grossman de la Universidad de Nueva York, apuntan a que este fenómeno es probablemente el factor impulsor de la mayoría, si no de todas, las enfermedades que afectan a la función cerebral, así como de la descomposición natural de las células cerebrales que se produce con el envejecimiento, según publican en Nature.
 
-La cura definitiva no es una quimera. De hecho, hay pacientes que lo han conseguido. Los médicos los llaman los “controladores de élite”.
-“Hay personas que han adquirido el VIH y lo han mantenido a raya toda su vida sin necesidad de tratamiento médico”, añade la doctora Mothe.
+Este trabajo aporta la primera prueba de que el daño tisular induce a los astrocitos a producir ácidos grasos libres saturados de cadena larga y fosfatidilcolinas, sustancias que desencadenan muerte celular en las neuronas dañadas. El estudio también demuestra que cuando los investigadores bloquean la formación de ácidos grasos en ratones, el 75% de las neuronas sobreviven, en comparación con el 10% cuando se permite la formación de ácidos grasos.
 
-Esas personas, cinco de cada mil infectados, consiguen que su sistema inmune frene el avance del virus. No lo hace desaparecer. El virus sigue agazapado en algunas células, pero no puede desarrollarse.
-Pero hay dos casos muy especiales. Dos de esos controladores de élite puede haber ido un paso más allá y haber conseguido deshacerse del todo del VIH.
-
-La primera es una mujer de San Francisco, que se contagió en 1992. El caso se publicó en 2020 en la revista Nature.
-El segundo es una argentina de 31 años, contagiada en 2013, y que solo tomo antirretrovirales medio año, durante un embarazo, para asegurar que el virus no pasara al feto. Su caso aparece en la revista Annals of Internal Medicine.
-Los análisis no han encontrado rastro del virus. También es verdad que son solo dos casos y puede ser un error de análisis. No es fácil descubrirlo si no se manifiesta la proteína viral.
-En cualquier caso estos controladores de élite son un camino muy prometedor de tratamiento.
-
-El virus VIH puede pasar años escondido. Externamente, las células infectadas son iguales a las otras.
-“La estrategia es ayudar al sistema inmune a reconocer esas células infectadas”, explica el doctor Julià Blanco, del Instituto de Investigación del Sida, durante un debate de la Fundación “la Caixa”.
-
-¿Cómo se consigue? Con vacunas.
-
-Pueden ser unas vacunas preventivas, enseñando a los anticuerpos a parar el virus.
-O vacunas terapéuticas, que ayuden a que el virus se exprese y el sistema inmune lo localice.
-“Llevamos 40 años de fracasos para vacunar, pero no significa que sean años perdidos. Ya sabemos qué anticuerpos específicos bloquean el virus. Estamos algo más cerca. Creo que a lo largo de mi carrera veré la vacuna”, opina la doctora Mothe.
-El problema es que el virus muta muchísimo. “Casi podríamos decir que cada infectado tiene un virus diferente”, añade el doctor Blanco.
-
-Por eso las vacunas no tendrán nada que ver con las clásicas que conocemos.
-
-Ahora mismo hay una vacuna prometedora, llamada Mosaico, que está ya en fase tres, probándose con miles de personas.
-Mosaico combate esa diversidad recogiendo variantes de todo el mundo e incorporándolas.
-Una primera ensayo en mujeres ha fracasado. Hay otro ensayo, en hombres que, por sus características diferentes de forma de contagio, puede tener más éxito. Habrá resultados en 2023.
-En occidente tentemos una falsa sensación de que el sida se ha acabado, gracias a los retrovirales.
-
-“Si se detecta temprano la esperanza de vida del pacientes es prácticamente igual a la de cualquier otra persona”, admite la doctora Mothe.
+Los autores concluyen, ante la evidencia de los resultados, que los ácidos grasos tóxicos producidos por los astrocitos desempeñan un papel fundamental en la muerte de las células cerebrales y proporcionan una nueva y prometedora diana para el tratamiento, e incluso la prevención, de muchas enfermedades neurodegenerativas como Parkinson, enfermedad de Huntington y esclerosis múltiple.
+                    

@@ -1,61 +1,8 @@
-En España hay un millón de personas que toman anticoagulantes, la mayoría porque sufren fibrilación auricular –el tipo de arritmia más frecuente– con riesgo de trombos. Los anticoagulantes evitan la formación de coágulos y protegen frente a ictus o trombosis.
+La tartamudez no se debe a un deterioro de las habilidades motoras, aparece con la iniciación del habla
 
-Según señala desde Federación Española de Asociaciones de Anticoagulados (FEASAN), son de los tratamientos que más vidas han salvado y lo siguen haciendo.
+						Las técnicas de neuroimagen y modelización neurocomputacional están permitiendo comprender mucho mejor el funcionamiento del cerebro durante el habla y cómo surge la tartamudez. En este sentido, en el marco de la 181ª Reunión de la Sociedad Acústica de América se ha presentado una investigación, realizada por investigadores de la Universidad de Boston (EE.UU.) y publicada en Neurobiology Languaje, en el que se confirma que, dentro del cerebro, un circuito inicia el habla deseada en los ganglios basales, mientras que otro circuito coordina los músculos necesarios para generar el habla. La tartamudez surge de la iniciación del habla, por lo que sólo el primero de los dos circuitos está alterado.
 
-Sin embargo, su manejo correcto es vital y no siempre es fácil: el mal control de la anticoagulación provoca 32.000 muertes al año en España.
+El estudio compara el habla con un aparato reproductor de CD con dos circuitos: uno que elige un CD y otro que lo reproduce. En el cerebro, esto corresponde a un circuito que inicia el habla deseada en los ganglios basales, mientras que otro circuito coordina los músculos necesarios para generar el habla. La tartamudez proviene de la iniciación del habla, por lo que sólo el primero de los dos circuitos está alterado, o lo que es lo mismo, en la tartamudez, los CD en sí están bien, pero el mecanismo para elegirlos está alterado.
 
-La fibrilación auricular es la alteración del ritmo normal del corazón (arritmia) más habitual y la sufren más de un millón de españoles, aunque muchos otros están sin diagnosticar.
-
-El corazón late de forma desigual y rápidamente, como si temblara, en lugar de hacerlo de forma regular y constante.
-
-En España más de un millón de personas toman anticoagulantes orales a diario. La mayoría son mayores de 65 años con fibrilación auricular y polimedicados.
-
-Esta cifra aumenta cada año por el envejecimiento de la población y el aumento de los factores de riesgo vascular.
-
-Los anticoagulantes evitan la formación de trombos en el interior de los vasos sanguíneos y las cavidades cardiacas.
-
-Se administran a personas con riesgo moderado o alto de sufrir una trombosis.
-Es un tratamiento que salva vidas, pero que requiere de una atención y seguimiento especial de los profesionales sanitarios y los propios pacientes.
-
-Un control deficiente provoca complicaciones como el ictus, las hemorragias graves o la muerte.
-
-El tratamiento clásico que toman más de medio millón de españoles con este problema son los anticoagulantes orales con antivitamina K. Los principales ejemplos son la Warfarina y el acenocumarol (Sintrom).
-
-Estos medicamentos surgieron 50 años atrás y hacen que la sangre tarde más tiempo en coagularse ya que interfieren en la formación de los factores implicados en la coagulación.
-Sin embargo, tal y como alertan desde la Fundación Española del Corazón, algunos estudios apuntan que un 48,26% de los pacientes con fibrilación auricular no valvular que toman estos fármacos tienen un mal control.
-
-Y es que los antivitamina K requieren un control riguroso de las dosis, hay múltiples factores que les afectan como algunos fármacos de uso común o ciertos alimentos, y también aumentan el riesgo de hemorragia.
-
-"Estas personas se enfrentan a una mayor probabilidad de sufrir eventos como ictus y hemorragias que las personas con un buen control de la anticoagulación", recuerda el Dr. Gómez Doblas, vicepresidente de la SEC. También tienen peor calidad de vida.
-
-No obstante, existen otras opciones de tratamientos anticoagulantes como las heparinas que se inyectan por vía subcutánea.
-
-Y desde hace 10 años aproximadamente también están disponibles los anticoagulantes orales de acción directa (ACODs), que son seguros y prácticos porque no requieren un control tan estricto como la antivitamina K.
-
-El Dr. Gómez Doblas asegura que uno de los retos de la anticoagulación en España pasa por "mejorar los niveles de buen control de anticoagulación en los pacientes con antivitamina K y esto se puede hacer elevando los porcentajes de uso de ACODs".
-
-Pero no parece fácil. FEASAN recuerda que el 32% de los que toman anticoagulantes de Acción Directa (ACODs) abandona el tratamiento.
-
-"El buen control de la anticoagulación es posible, pero exige la implicación de todos: pacientes, profesionales sanitarios y administraciones sanitarias", subraya Rafael Martínez, presidente de FEASAN.
-
-Los pacientes deben cumplir con el tratamiento.
-Los sanitarios informar bien a los pacientes sobre cómo tomarlo y los riesgos de no seguirlo.
-Y la administración eliminar las barreras burocráticas que permitan recetar fármacos como los ACODs de forma ágil, sugiere FEASAN.
-
-La medición del indicador llamado INR indica cómo se encuentra la anticoagulación sanguínea.
-
-Lo óptimo es que esta se mantenga en un rango entre 2 y 3. Si se sitúa por debajo de este rango se eleva el riesgo de ictus, mientras que si se mantiene por encima aumentan las posibilidades de que se produzca una hemorragia.
-
-Para mantener los niveles de anticoagulación bajo control en pacientes que toman antivitamina K (los fármacos ACODs no requieren control de INR), la Federación Española del Corazón ofrece estos consejos:
-
-Toma siempre el anticoagulante a la misma hora (evitarás olvidos) y la dosis exacta pautada por el médico para cada día. No cambies nunca la dosis por tu cuenta.
-Si algún día olvidas tomar la dosis a la hora acostumbrada, pero te das cuenta a lo largo de ese mismo día, tómalo lo antes posible. Pero si no te acuerdas hasta el día siguiente, mantén la dosis que te toca (no la varíes ni tomes el doble), pero informa a tu médico del olvido.
-Ten en cuenta que el ácido acetilsalicílico, sus derivados y los medicamentos que lo contienen (muchos preparados antigripales) aumentan el efecto de los anticoagulantes y el riesgo de sangrado.
-
-Por el mismo motivo (riesgo de sangrado), no debes tomar antiinflamatorios en general, ya que interfieren con el tratamiento. Sí puedes tomar para el dolor o fiebre metamizol o paracetamol.
-Comunica a tu médico tanto la retirada como el inicio de otros medicamentos.
-Están prohibidas las inyecciones profundas, por ejemplo, intramuscular o intraarticular.
-Evita las bebidas alcohólicas.
-Ante cualquier extracción dental o pruebas exploratorias invasivas (endoscopia, colonoscopia, biopsia) consulta con una semana de antelación a tu centro de hemostasia o a tu médico.
-Si sospechas que estás embarazada, díselo enseguida al médico que te controla la coagulación.
-La vitamina K puede interferir con los anticoagulantes. Por ello hay que prestar especial atención a las verduras de hoja verde oscuro (espinacas o acelgas), las coles (brócoli, repollo o coles de Bruselas) y los productos vegetales fermentados (chucrut o té verde). Limita su consumo.
+El equipo de investigadores creó modelos computacionales de cómo funciona el circuito de iniciación del habla en un individuo no tartamudo. Como la enfermedad de Parkinson también afecta al circuito de iniciación, pueden comparar estos modelos directamente con los datos tomados de los ganglios basales durante la cirugía de estimulación cerebral profunda en pacientes con la enfermedad.
+                    
