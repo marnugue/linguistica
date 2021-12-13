@@ -96,6 +96,16 @@ class Model():
         y_pred = classifier.predict(x_test)
         return (y_pred, y_pred_prob)
 
+    def ecm(self, y_pred, y_prob):
+        error = 0
+        if np.shape(y_prob)[1] > 1:
+            for entry, etiqueta in zip(y_prob, y_pred):
+                error += (1 - entry[etiqueta-1]) ** 2
+        else:
+            for entry in y_prob:
+                error += (1 - entry[0][0]) ** 2
+        return error/len(y_pred)
+
     def train(self):
         print("Entrenando los modelos...\n")
         x_train, y_train, x_test, y_test,name_train,name_test = self.prep_dataset()
@@ -117,6 +127,7 @@ class Model():
         #df = df.append(pd.DataFrame(arr, columns=df.columns), ignore_index=True)
         print(c_matrix)
         print(classification_report(y_true = y_test, y_pred = y_pred, target_names = ['Deporte', 'Salud', 'Política']))
+        print("Error cuadratico medio: ", str(self.ecm(y_pred, similarity)))
 
         print("\n________ Modelo Bayes ________")
         y_pred,y_probs = self.bayes_classification(Train_Vectorized_bow, Test_Vectorized_bow, y_train)
@@ -125,6 +136,7 @@ class Model():
         c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1)
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1, target_names=['Deporte', 'Salud', 'Política']))
+        print("Error cuadratico medio: ", str(self.ecm(y_pred, y_probs)))
 
         print("\n________ Modelo Regresión Logística ________")
         y_pred,y_probs = self.logistic_regresion_clasification(Train_Vectorized_bow, Test_Vectorized_bow, y_train)
@@ -133,6 +145,7 @@ class Model():
         c_matrix = confusion_matrix(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1)
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1, target_names=['Deporte', 'Salud', 'Política']))
+        print("Error cuadratico medio: ", str(self.ecm(y_pred, y_probs)))
         df.to_csv("modelResults.csv")
 
         print("\n________ Modelos TF-IDF ________")
@@ -143,6 +156,7 @@ class Model():
         #df = df.append(pd.DataFrame(arr, columns=df.columns), ignore_index=True)
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=y_pred, target_names=['Deporte', 'Salud', 'Política']))
+        print("Error cuadratico medio: ", str(self.ecm(y_pred, similarity)))
 
         print("\n________ Modelo Bayes ________")
         y_pred, y_probs = self.bayes_classification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
@@ -152,6 +166,7 @@ class Model():
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs, axis=1) + 1,
                                     target_names=['Deporte', 'Salud', 'Política']))
+        print("Error cuadratico medio: ", str(self.ecm(y_pred, y_probs)))
 
         print("\n________ Modelo Regresión Logística ________")
         y_pred, y_probs = self.logistic_regresion_clasification(Train_Vectorized_tfidf, Test_Vectorized_tfidf, y_train)
@@ -161,4 +176,5 @@ class Model():
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs, axis=1) + 1,
                                     target_names=['Deporte', 'Salud', 'Política']))
+        print("Error cuadratico medio: ", str(self.ecm(y_pred, y_probs)))
         df.to_csv("modelResults.csv")
