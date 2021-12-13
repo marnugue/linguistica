@@ -68,7 +68,7 @@ def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=Fa
 
             # Abrir los .txt, eliminar saltos de linea y agruparlos todos en un str
             with open(path_datos + "/" + c + "/" + f, encoding="utf-8") as documento_txt:
-                contenido = [linea.rstrip() for linea in documento_txt]
+                contenido = [linea.rstrip().lower() for linea in documento_txt]
             texto = ""
             for part in contenido:
                 texto = texto + " " + part
