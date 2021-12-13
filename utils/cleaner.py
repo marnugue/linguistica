@@ -74,11 +74,11 @@ def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=Fa
                 texto = texto + " " + part
 
             if c == "Deporte":
-                datos[0].append([texto, 1,f])
+                datos[0].append([texto.lower(), 1,f])
             elif c == "Salud":
-                datos[1].append([texto, 2,f])
+                datos[1].append([texto.lower(), 2,f])
             elif c == "Politica":
-                datos[2].append([texto, 3,f])
+                datos[2].append([texto.lower(), 3,f])
             numero_documentos += 1
 
     regex = r"[a-zA-Záéíóúñ]+"

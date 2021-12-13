@@ -13,9 +13,10 @@ if __name__ == '__main__':
     # documentExtractor.extract()
 
     # Opciones de limpieza por defecto lematizer=False stopword=True,steaming = True
-    data = cleanTexts("data/dataset",extractor=True)
-    # filehandler = open("dataCleaned.obj", 'rb') 
+    data = cleanTexts("data/dataset",steaming = False,extractor=True)
+    filehandler = open("dataCleaned.obj", 'wb') 
+    pickle.dump(data, filehandler)
     # data = pickle.load(filehandler)
     # Inicializar y entrenar el modelo
-    model = Model(data)
-    model.train()
+    # model = Model(data)
+    # model.train()
