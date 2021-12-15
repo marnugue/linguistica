@@ -2,8 +2,6 @@
 import random
 import numpy as np
 import pandas as pd
-
-# Descargar recursos necesarios
 from sklearn import naive_bayes
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.metrics import confusion_matrix, classification_report
