@@ -12,7 +12,7 @@ class HTMLextractor(object):
             os.makedirs("data/html")
         datasets = glob(self.path+"/*")
         for filename in datasets: 
-            with open(f"{filename}","r") as fd:
+            with open(f"{filename}","r",encoding="utf-8") as fd:
                 i = 1
                 iS = 1
                 line = fd.readline()
@@ -32,7 +32,7 @@ class HTMLextractor(object):
                             name = f"data/html/S{iS}.html"
                             iS+=1
                         if r.status_code == 200:
-                            with open(name,"w") as file:
+                            with open(name,"w",encoding="utf-8") as file:
                                 file.writelines(r.text)
                         else:
                             name = name.split(".")[-2]
