@@ -42,6 +42,8 @@ numero_documentos = 0
 def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=False):
     
     global numero_documentos,i
+    numero_documentos = 0
+    datos = [[], [], []]
         
     if extractor:
         for pathi in paths:
@@ -100,7 +102,6 @@ def cleanTexts(path,lematizer = False,stopword=True,steaming = True,extractor=Fa
             steamed_words = [stemmer.stem(word) for word in lematizied_text] if steaming else lematizied_text
             instance[0] = " ".join(steamed_words)
         print("")
-        
     return datos
 # Installer nltk package
 #
