@@ -144,7 +144,6 @@ class Model():
         print(c_matrix)
         print(classification_report(y_true=y_test, y_pred=np.argmax(y_probs,axis=1)+1, target_names=['Deporte', 'Salud', 'Política']))
         print("Error cuadratico medio: ", str(self.ecm(y_pred, y_probs)))
-        df.to_csv("modelResults.csv")
 
         print("\n________ Modelos TF-IDF ________")
         print("\n________ Modelo Similitud Coseno ________")
@@ -176,28 +175,20 @@ class Model():
                                     target_names=['Deporte', 'Salud', 'Política']))
         print("Error cuadratico medio: ", str(self.ecm(y_pred, y_probs)))
         df.to_csv("modelResults.csv")
-    def analisis(self):
-        df = pd.read_csv("modelResults.csv")
-        print("\n________Resultados con bayes________")
-        print("\n")
-        print("Documentos representativos Deporte")
-        print(df[df["realClass"]==1].head(5))
-        print("\n")
-        print("Documentos representativos Salud")
-        print(df[df["realClass"]==2].sort_values(["class2","realClass","method"],ascending=False).head(5))
-        print("\n")
-        print("Documentos representativos Politica")
-        print(df[df["realClass"]==3].sort_values(["class3","realClass","method"],ascending=False).head(5))
-        print("\n")
-        print("\n________Resultados con regresión________")
-        print("\n")
-        df = df[df["method"]=="regresion"]
-        print("Documentos representativos Deporte")
-        print(df[df["realClass"]==1].sort_values(["class1","realClass","method"],ascending=False).head(5))
-        print("\n")
-        print("Documentos representativos Salud")
-        print(df[df["realClass"]==2].sort_values(["class2","realClass","method"],ascending=False).head(5))
-        print("\n")
-        print("Documentos representativos Politica")
-        print(df[df["realClass"]==3].sort_values(["class3","realClass","method"],ascending=False).head(5))
+    def analisis(self,models):
+        
+        for model in models:
+            df = pd.read_csv("modelResults.csv")
+            df = df[df["method"]==f"{model}"]
+            print(f"\n________Resultados con {model}________")
+            print("\n")
+            print("Documentos representativos Deporte")
+            print(df[df["realClass"]==1].head(5))
+            print("\n")
+            print("Documentos representativos Salud")
+            print(df[df["realClass"]==2].sort_values(["class2","realClass","method"],ascending=False).head(5))
+            print("\n")
+            print("Documentos representativos Politica")
+            print(df[df["realClass"]==3].sort_values(["class3","realClass","method"],ascending=False).head(5))
+            print("\n")
         
