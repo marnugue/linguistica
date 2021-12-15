@@ -21,7 +21,7 @@ def extract():
     iD = 1
     iS = 1
     for file in files:
-        with open(file, 'r') as f:
+        with open(file, 'r',encoding="utf-8") as f:
             contents = f.read()
         soup = BeautifulSoup(contents,features="html.parser")
         file = file.split("/")[-1]
@@ -45,7 +45,7 @@ def extract():
             # eliminamos secciones (identifican contenido interactivo nada mas )
             for tag in soup.find_all("section"):
                 tag.replaceWith("")
-            with open(f"data/dataset/Deporte/{newFormat}","w") as fd:
+            with open(f"data/dataset/Deporte/{newFormat}","w",encoding="utf-8") as fd:
                 fd.writelines(tiltle.get_text())
                 fd.write("\n")
                 fd.writelines(description["content"])
@@ -85,7 +85,7 @@ def extract():
             except:
                 pass
         
-            with open(f"data/dataset/Deporte/{newFormat}","w") as fd:
+            with open(f"data/dataset/Deporte/{newFormat}","w",encoding="utf-8") as fd:
                 fd.writelines(header.get_text())
                 fd.write("\n")
                 if description:    
@@ -142,7 +142,7 @@ def extract():
                     tag.replaceWith("")
             except :
                 pass
-            with open(f"data/dataset/Deporte/{newFormat}","w") as fd:
+            with open(f"data/dataset/Deporte/{newFormat}","w",encoding="utf-8") as fd:
                 fd.writelines(header.get_text())
                 fd.write("\n")
                 if description:    
@@ -155,7 +155,7 @@ def extract():
             header = soup.find("h1",{"class":"titulo"})
             soup = soup.find("span", {"class": "texto"})
             # no hace falta ninguna limpieza en el texto html
-            with open(f"data/dataset/Salud/{newFormat}","w") as fd:
+            with open(f"data/dataset/Salud/{newFormat}","w",encoding="utf-8") as fd:
                 fd.writelines(header.get_text())
                 fd.write("\n")
                 fd.writelines(soup.get_text())
