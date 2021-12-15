@@ -25,12 +25,11 @@ def extract():
             contents = f.read()
         soup = BeautifulSoup(contents,features="html.parser")
         file = file.split("/")[-1]
-        print(file)
+        print(f"\r Procesando {file} ..",end="",flush=True)
         newFormat = ".txt"
         if "AS.html" in file:
             newFormat = "D" +str(iD) + newFormat
             iD+=1
-            print(f"\r{file}",end="",flush=True)
             tiltle = soup.find("h1",{"class":"art-headline"})
             description = soup.find("meta",  attrs={'name': 'Description'})
             soup = soup.find("div", {"id": "cuerpo_noticia"})
@@ -151,7 +150,6 @@ def extract():
                     fd.write("\n")
                 fd.writelines(soup.get_text())
             fd.close()
-            pass
         elif file[0]=="S":
             newFormat = "S" +str(iS) + newFormat
             header = soup.find("h1",{"class":"titulo"})

@@ -1,4 +1,3 @@
-
 import requests
 import validators
 import os
@@ -23,23 +22,22 @@ class HTMLextractor(object):
                         if r.status_code!=200:
                             print(f"linea -> `{line}`")
                         name = ""
-                        if line.find("marca.com")!=-1:
+                        if "marca.com" in line:
                             name = f"data/html/D{i}-D.html"
-                        elif line.find("as.com")!=-1:
+                        elif "as.com" in line:
                             name = f"data/html/D{i}-AS.html"
-                        elif line.find("www.mundodeportivo.com")!=-1:
+                        elif "www.mundodeportivo.com" in line:
                             name = f"data/html/D{i}-MD.html"
                         elif line.find("neurologia.com")!=-1:
                             name = f"data/html/S{iS}.html"
                             iS+=1
-                            
                         if r.status_code == 200:
                             with open(name,"w") as file:
                                 file.writelines(r.text)
                         else:
                             name = name.split(".")[-2]
                             name +="Error.html"
-                            with open(name,"w") as file:
+                            with open(name,"w",encoding="utf-8") as file:
                                 file.write(line)
                         file.close()  
                         i+=1
